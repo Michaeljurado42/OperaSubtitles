@@ -608,7 +608,7 @@ E signor ci siamo intesi?
 
 153
 00:22:07,000 --> 00:22:11,000
-Si signore tutto appresi.
+Si signore tutto appresi
 
 154
 00:22:11,000 --> 00:22:18,000
@@ -640,7 +640,7 @@ Ah padre che tali mi siete m'amate
 
 161
 00:23:19,000 --> 00:23:26,000
-Su, ditemi il resto per bello, parlate.
+Su, ditemi il resto per bello, parlate
 
 162
 00:23:26,440 --> 00:23:31,000
@@ -668,7 +668,7 @@ Discorsi segreti non sempre si tiene
 
 168
 00:24:35,000 --> 00:24:42,000
-Capisci, m'intendi.
+Capisci, m'intendi
 
 169
 00:24:42,000 --> 00:24:54,000
@@ -676,7 +676,7 @@ Non oso parlar
 
 170
 00:24:55,000 --> 00:25:01,000
-Capisci, m'intendi.
+Capisci, m'intendi
 
 171
 00:25:01,000 --> 00:25:06,000
@@ -752,7 +752,7 @@ Potremmo contenti tra noi conversar
 
 189
 00:28:13,000 --> 00:28:18,000
-Si Figliola, alla fine t'ho trovato marito.
+Si Figliola, alla fine t'ho trovato marito
 
 190
 00:28:18,000 --> 00:28:20,000
@@ -772,7 +772,7 @@ Oh Nanni appunto! Il poveraccio si può spazzar la bocca
 
 194
 00:28:27,000 --> 00:28:31,000
-Per questa volta a lui non gliene tocca.
+Per questa volta a lui non gliene tocca
 
 195
 00:28:31,000 --> 00:28:33,000
@@ -780,7 +780,7 @@ Ma...
 
 196
 00:28:33,000 --> 00:28:39,000
-Non c'è tanti "ma", figliola mia, Nanni è povero.
+Non c'è tanti "ma", figliola mia, Nanni è povero
 
 197
 00:28:39,000 --> 00:28:41,000
@@ -788,7 +788,7 @@ Ed io, che son ricca?
 
 198
 00:28:41,000 --> 00:28:43,000
-Lo sarai.
+Lo sarai
 
 199
 00:28:43,000 --> 00:28:49,000
@@ -800,11 +800,11 @@ E perché no?
 
 201
 00:28:51,000 --> 00:28:54,400
-Perché voglio bene a lui.
+Perché voglio bene a lui
 
 202
 00:28:54,400 --> 00:29:00,400
-Tu mi fai ridere. Ora vorrai bene a questo.
+Tu mi fai ridere. Ora vorrai bene a questo
 
 203
 00:29:00,400 --> 00:29:06,400
@@ -812,7 +812,7 @@ E che si puole voler bene, quando torna a chi si vuole?
 
 204
 00:29:06,400 --> 00:29:09,400
-Sicuro, le ragazze non hanno volontà.
+Sicuro, le ragazze non hanno volontà
 
 205
 00:29:11,400 --> 00:29:14,000
@@ -820,7 +820,7 @@ Ma quando viene da sé, come si fa?
 
 206
 00:29:14,000 --> 00:29:16,600
-S'ubbidisce e si tace.
+S'ubbidisce e si tace
 
 207
 00:29:17,900 --> 00:29:24,200
@@ -828,11 +828,11 @@ Ma cosa devo far, se Nanni viene con tanta leggiadria?
 
 208
 00:29:24,200 --> 00:29:28,200
-Gli si voltano le spalle, e si va via.
+Gli si voltano le spalle, e si va via
 
 209
 00:29:49,200 --> 00:30:08,200
-Quando viene a far l'amore, gli hai da dir sempre di no.
+Quando viene a far l'amore, gli hai da dir sempre di no
 
 210
 00:30:09,200 --> 00:30:12,200
@@ -840,11 +840,11 @@ Mi vuoi bene?
 
 211
 00:30:12,200 --> 00:30:16,200
-No signore.
+No signore
 
 212
 00:30:16,200 --> 00:30:18,200
-Signore no.
+Signore no
 
 213
 00:30:21,200 --> 00:30:23,200
@@ -852,7 +852,7 @@ Vuoi sposarmi?
 
 214
 00:30:23,200 --> 00:30:25,700
-Signor no.
+Signor no
 
 215
 00:30:27,000 --> 00:30:32,000
@@ -897,11 +897,11 @@ e lasciarlo così...?
 
 225
 00:31:48,000 --> 00:31:52,000
-Mi scoppia il cuore.
+Mi scoppia il cuore
 
 226
 00:31:53,000 --> 00:31:58,000
-Eppure mi converrà ubbidire e crepare.
+Eppure mi converrà ubbidire e crepare
 
 227
 00:31:58,000 --> 00:32:00,000
@@ -917,7 +917,7 @@ Dove vai Sandrina?
 
 230
 00:32:09,000 --> 00:32:11,000
-Non lo so nemmen'io.
+Non lo so nemmen'io
 
 231
 00:32:12,000 --> 00:32:13,000
@@ -933,7 +933,7 @@ Ma, tu sei turbata
 
 234
 00:32:17,000 --> 00:32:19,000
-Hai gli occhi rossi.
+Hai gli occhi rossi
 
 235
 00:32:19,000 --> 00:32:23,000
@@ -945,7 +945,7 @@ Dimmi, carina, che c'è stato?
 
 237
 00:32:27,000 --> 00:32:29,000
-Niente.
+Niente
 
 238
 00:32:29,000 --> 00:32:31,400
@@ -977,7 +977,7 @@ Ah forse tu non mi vuoi più bene? Non hai per me più amore?
 
 245
 00:32:53,500 --> 00:32:57,500
-(Eppur converrà dirlo) No, Signore.
+(Eppur converrà dirlo) No, Signore
 
 246
 00:32:58,000 --> 00:33:05,500
@@ -989,7 +989,7 @@ Che doveva sposarti?
 
 248
 00:33:07,500 --> 00:33:09,500
-Signor no.
+Signor no
 
 249
 00:33:09,500 --> 00:33:14,000
@@ -997,19 +997,19 @@ Così mi parli, e piangi?
 
 250
 00:33:14,000 --> 00:33:21,500
-Anima nera! Perfida, malandrina, tu vuoi la mia rovina, tu vuoi la morte mia.
+Anima nera! Perfida, malandrina, tu vuoi la mia rovina, tu vuoi la morte mia
 
 251
 00:33:22,000 --> 00:33:26,000
-Sarai contenta. Correrò ad affogarmi in qualche fosso.
+Sarai contenta. Correrò ad affogarmi in qualche fosso
 
 252
 00:33:26,000 --> 00:33:29,000
-o giù da qualche balza andrò a rompicollo.
+o giù da qualche balza andrò a rompicollo
 
 253
 00:33:30,000 --> 00:33:36,000
-Con tal spina nel core già più vivere non posso.
+Con tal spina nel core già più vivere non posso
 
 254
 00:33:36,000 --> 00:33:38,560
@@ -1029,7 +1029,7 @@ Non mi lasci, crudele?
 
 258
 00:33:51,560 --> 00:33:53,560
-Signor no.
+Signor no
 
 259
 00:33:53,560 --> 00:33:57,560
@@ -1073,7 +1073,7 @@ Maledetto no!
 
 269
 00:34:14,000 --> 00:34:19,000
-Ma di, ma parla, ma risolvi alfine.
+Ma di, ma parla, ma risolvi alfine
 
 270
 00:34:19,000 --> 00:34:26,000
@@ -1093,11 +1093,11 @@ Che vuoi che ti dica? Che vuoi che ti faccia?
 
 274
 00:34:47,000 --> 00:34:55,000
-La padre nemica mi sgrida e minaccia, se io parlo d'amarti, se io dico di sì.
+La padre nemica mi sgrida e minaccia, se io parlo d'amarti, se io dico di sì
 
 275
 00:34:58,000 --> 00:35:09,000
-Comanda e mi dice che trovo il marito, che opporsi non lice, ch'è meglio partito.
+Comanda e mi dice che trovo il marito, che opporsi non lice, ch'è meglio partito
 
 276
 00:35:15,000 --> 00:35:21,000
@@ -1125,11 +1125,11 @@ E crepo d'affanno. Ti basta così?
 
 282
 00:37:32,180 --> 00:37:34,180
-Ora intendo cos'è.
+Ora intendo cos'è
 
 283
 00:37:35,180 --> 00:37:43,180
-Quel babbuino, quel strego di vecchio imperversato mi fa questa solenne baronata.
+Quel babbuino, quel strego di vecchio imperversato mi fa questa solenne baronata
 
 284
 00:37:44,180 --> 00:37:53,180
@@ -1137,7 +1137,7 @@ Ma l'ho a veder anch'io, vo' saper a chi tocca a venirmi a levare il pan di bocc
 
 285
 00:37:56,180 --> 00:38:04,180
-Sandra è mia. Senza lei, già vivere non potrei.
+Sandra è mia. Senza lei, già vivere non potrei
 
 286
 00:38:06,060 --> 00:38:08,060
@@ -1165,7 +1165,7 @@ verrà a rompermi l'uova nel paniere?
 
 292
 00:38:40,580 --> 00:38:44,580
-Vo' andar da suo padre, vo' sapere chi è costui.
+Vo' andar da suo padre, vo' sapere chi è costui
 
 293
 00:38:44,580 --> 00:38:48,580
@@ -1177,15 +1177,15 @@ E quando poi rivelato m'avrà tutto il misterio, uno di noi due gli ha a andare 
 
 295
 00:39:16,580 --> 00:39:31,580
-Non v'è rimedio, non v'è compenso.
+Non v'è rimedio, non v'è compenso
 
 296
 00:39:31,580 --> 00:39:35,580
-Mi sento rodere quando ci penso.
+Mi sento rodere quando ci penso
 
 297
 00:39:35,580 --> 00:39:39,580
-Sono tutto fiele, tutto veleno.
+Sono tutto fiele, tutto veleno
 
 298
 00:39:39,580 --> 00:39:44,580
@@ -1193,7 +1193,7 @@ M'ardono le viscere, mi brucia il seno
 
 299
 00:39:44,860 --> 00:39:49,860
-Prima di perderla, voglio crepar.
+Prima di perderla, voglio crepar
 
 300
 00:41:45,420 --> 00:41:47,420
@@ -1205,7 +1205,7 @@ che non è altro che ossa e cotenna,
 
 302
 00:41:50,420 --> 00:41:54,420
-ha da pentirsene, s'ha da impiccar.
+ha da pentirsene, s'ha da impiccar
 
 303
 00:45:07,660 --> 00:45:15,660
@@ -1213,7 +1213,7 @@ Ecco fatto da cena, acqua di fonte, un po' d'insalatina, e pan marocco
 
 304
 00:45:15,660 --> 00:45:18,660
-Son pasto da Re.
+Son pasto da Re
 
 305
 00:45:20,300 --> 00:45:24,300
@@ -1221,12 +1221,12 @@ Ma i Re non hanno per render saporiti i pasti loro
 
 306
 00:45:24,300 --> 00:45:29,300
-la salsa del digiuno, e del lavoro.
+la salsa del digiuno, e del lavoro
 
 307
 00:45:30,740 --> 00:45:35,740
 Cappita! Or ora è notte,
-E Nencio ancor non viene.
+E Nencio ancor non viene
 
 308
 00:45:35,740 --> 00:45:43,740
@@ -1234,11 +1234,11 @@ Io non vorrei che il diavolo ci mettesse lo zampino per farmelo sviare
 
 309
 00:45:45,220 --> 00:45:49,220
-In tutto il giorno, non è comparso mai.
+In tutto il giorno, non è comparso mai
 
 310
 00:45:49,220 --> 00:45:59,220
-Stasera l'osservai tutto mesto e confuso, rispondermi a rovescio, e farmi muso.
+Stasera l'osservai tutto mesto e confuso, rispondermi a rovescio, e farmi muso
 
 311
 00:46:01,580 --> 00:46:04,580
@@ -1250,11 +1250,11 @@ Perché egli è ricco, e ha qualche cosa al sole?
 
 313
 00:46:08,000 --> 00:46:11,000
-Ognuna me l'invidia, ognuna il vuole.
+Ognuna me l'invidia, ognuna il vuole
 
 314
 00:46:12,000 --> 00:46:19,000
-Se non avesse nulla, io non avrei rivali, e sarei più contenta.
+Se non avesse nulla, io non avrei rivali, e sarei più contenta
 
 315
 00:46:21,700 --> 00:46:23,700
@@ -1266,7 +1266,7 @@ Ah non è lui...
 
 317
 00:46:29,060 --> 00:46:34,060
-È il mio Nanni, che torna tutto mesto e affannato.
+È il mio Nanni, che torna tutto mesto e affannato
 
 318
 00:46:34,580 --> 00:46:37,000
@@ -1302,12 +1302,12 @@ Parla, cos'è fratello?
 
 326
 00:47:08,780 --> 00:47:11,780
-N: Son rovinato.
+N: Son rovinato
 S: Come? Perché?
 
 327
 00:47:11,780 --> 00:47:16,780
-La mia Sandrina non è per me.
+La mia Sandrina non è per me
 
 328
 00:47:16,780 --> 00:47:18,780
@@ -1315,11 +1315,11 @@ Chi t'ha fatto la cilecca?
 
 329
 00:47:18,780 --> 00:47:20,780
-Il tuo Nencio me l'azzecca.
+Il tuo Nencio me l'azzecca
 
 330
 00:47:20,780 --> 00:47:22,780
-Il mio Nencio? Signor si.
+Il mio Nencio? Signor si
 
 331
 00:47:23,000 --> 00:47:30,000
@@ -1331,7 +1331,7 @@ Sento il cuor che mi martella,
 
 333
 00:47:36,060 --> 00:47:40,060
-La non vuol finir così.
+La non vuol finir così
 
 334
 00:48:22,580 --> 00:48:25,500
@@ -1339,7 +1339,7 @@ E dov'è quel traditore?
 
 335
 00:48:26,300 --> 00:48:30,000
-Con Sandrina a far l'amore.
+Con Sandrina a far l'amore
 
 336
 00:48:30,000 --> 00:48:32,000
@@ -1355,7 +1355,7 @@ Ah mi fai tremare
 
 339
 00:49:45,340 --> 00:49:56,340
-La non vuol finir così.
+La non vuol finir così
 
 340
 00:50:04,300 --> 00:50:10,300
@@ -1393,7 +1393,7 @@ che ieri sera facevi tanto chiasso,
 
 348
 01:03:39,200 --> 01:03:43,000
-E te la sei dormita come un tasso.
+E te la sei dormita come un tasso
 
 349
 01:03:43,300 --> 01:03:45,300
@@ -1409,7 +1409,7 @@ e fatto che, se non attraversaci il demonio,
 
 352
 01:03:54,000 --> 01:03:58,100
-Spero di frastornare il matrimonio.
+Spero di frastornare il matrimonio
 
 353
 01:03:58,100 --> 01:04:03,100
@@ -1417,7 +1417,7 @@ Eh, chi dorme, lo sa, non piglia pesce,
 
 354
 01:04:03,100 --> 01:04:07,100
-Basta, sei una gran donna, se riesci.
+Basta, sei una gran donna, se riesci
 
 355
 01:04:07,100 --> 01:04:12,000
@@ -1425,7 +1425,7 @@ Credi tu che Filippa mi possa ravvisar?
 
 356
 01:04:12,000 --> 01:04:14,000
-Nemmen per ombra.
+Nemmen per ombra
 
 357
 01:04:14,000 --> 01:04:16,000
@@ -1433,7 +1433,7 @@ Ci sto bene?
 
 358
 01:04:16,000 --> 01:04:22,500
-D'incanto, in questi panni sembri proprio una vecchia d'ottant'anni.
+D'incanto, in questi panni sembri proprio una vecchia d'ottant'anni
 
 359
 01:04:23,000 --> 01:04:25,000
@@ -1449,7 +1449,7 @@ Il voler far da uomo una donna mi pare un po' ridicolo,
 
 362
 01:04:36,300 --> 01:04:41,000
-E ti potrea mancare qualche amminicolo.
+E ti potrea mancare qualche amminicolo
 
 363
 01:04:41,000 --> 01:04:44,440
@@ -1459,15 +1459,15 @@ Chetati, sento gente.
 364
 01:04:44,440 --> 01:04:48,440
 Bada di stare attento.
-Ritirati.
+Ritirati!
 
 365
 01:04:48,440 --> 01:04:50,440
-Son lesto.
+Son lesto
 
 366
 01:04:50,440 --> 01:04:52,440
-Ecco il cimento.
+Ecco il cimento
 
 367
 01:04:53,000 --> 01:04:54,440
@@ -1512,7 +1512,7 @@ starebbe qui di casa un certo Nencio sgarro?
 
 377
 01:05:27,920 --> 01:05:29,400
-No Sorella.
+No Sorella
 
 378
 01:05:29,400 --> 01:05:33,600
@@ -1520,7 +1520,7 @@ Povera me! Mi ci mancava questa,
 
 379
 01:05:33,600 --> 01:05:35,800
-D'aver sbagliato la strada.
+D'aver sbagliato la strada
 
 380
 01:05:35,800 --> 01:05:39,600
@@ -1532,11 +1532,11 @@ e cerco, e chiedo, e m'informo, e domando, e non lo vedo....
 
 382
 01:05:46,700 --> 01:05:50,120
-Credo d'aver girato tutto il piano.
+Credo d'aver girato tutto il piano
 
 383
 01:05:50,120 --> 01:05:53,560
-Io ve lo insegnerò, non è lontano.
+Io ve lo insegnerò, non è lontano
 
 384
 01:05:53,560 --> 01:05:57,040
@@ -1544,11 +1544,11 @@ Ah, così sfinita, e in quest'età,
 
 385
 01:05:57,040 --> 01:05:59,040
-sarà lontan purtroppo.
+sarà lontan purtroppo
 
 386
 01:05:59,040 --> 01:06:00,940
-Eccolo là.
+Eccolo là
 
 387
 01:06:00,940 --> 01:06:02,940
@@ -1564,11 +1564,11 @@ Se sapeste in che guai mi ritrovo per questo bel soggetto....
 
 390
 01:06:16,620 --> 01:06:22,000
-"Ma, bisogna ingozzare e tacer" dice il proverbio.
+"Ma, bisogna ingozzare e tacer" dice il proverbio
 
 391
 01:06:22,780 --> 01:06:26,780
-E chi non ha giudizio bisogna che abbia gambe.
+e "chi non ha giudizio bisogna che abbia gambe"
 
 392
 01:06:28,580 --> 01:06:30,580
@@ -1576,7 +1576,7 @@ E che interesse avete voi con lui?
 
 393
 01:06:31,700 --> 01:06:36,100
-Parlar non posso, mi conviene stare zitta e roder l'osso.
+Parlar non posso, mi conviene stare zitta e roder l'osso
 
 394
 01:06:37,420 --> 01:06:40,720
@@ -1596,7 +1596,7 @@ Cosa dite?!
 
 398
 01:06:49,200 --> 01:06:50,800
-Oh niente.
+Oh niente
 
 399
 01:06:50,800 --> 01:06:57,300
@@ -1617,11 +1617,11 @@ Ma però, chi ha grandi guai, grand strida mette
 
 403
 01:07:11,020 --> 01:07:15,020
-Parlate pur, che non rischiate nulla a sfogarvi con me.
+Parlate pur, che non rischiate nulla a sfogarvi con me
 
 404
 01:07:18,020 --> 01:07:22,620
-Mi scappa il pianto quando ci penso.
+Mi scappa il pianto quando ci penso
 
 405
 01:07:23,460 --> 01:07:25,460
@@ -1649,7 +1649,7 @@ Aprite gli occhi povera disgraziata
 
 411
 01:07:47,420 --> 01:07:51,420
-Non fate come me, che l'ho affogata.
+Non fate come me, che l'ho affogata
 
 412
 01:07:52,380 --> 01:07:54,380
@@ -1685,7 +1685,7 @@ Questo Nencio, un di di carneval venne a Peregola
 
 420
 01:08:25,820 --> 01:08:27,820
-La vidde , e s'invaghi
+La vidde e s'invaghi
 
 421
 01:08:28,540 --> 01:08:30,540
@@ -1701,7 +1701,7 @@ S'accese il fuoco , e tanto ci soffiò dentro il demonio ,
 
 424
 01:08:41,780 --> 01:08:45,000
-Che si fè di soppiato il matrimonio .
+Che si fè di soppiato il matrimonio
 
 425
 01:08:46,740 --> 01:08:50,050
@@ -1713,7 +1713,7 @@ Un pezzo fece da buon marito
 
 427
 01:08:53,060 --> 01:08:57,990
-A poco a poco si raffreddò, staccossi affatto.
+A poco a poco si raffreddò, staccassi affatto
 
 428
 01:08:59,300 --> 01:09:05,120
@@ -1721,11 +1721,11 @@ Adesso son tre giorni, fratello, che non si fa veder,
 
 429
 01:09:05,120 --> 01:09:09,200
-e l'ha piantata , senza pan , senza carne,
+e l'ha piantata, senza pan, senza carne,
 
 430
 01:09:09,200 --> 01:09:16,500
-e sola in letto con due bambini in culla , ed uno al petto .
+e sola in letto con due bambini in culla, ed uno al petto
 
 431
 01:09:18,060 --> 01:09:22,200
@@ -1734,7 +1734,7 @@ F: Chetati!
 
 432
 01:09:22,580 --> 01:09:28,700
-Ad allattare quel povero bambino, immaginate voi come si fa.
+Ad allattare quel povero bambino, immaginate voi come si fa
 
 433
 01:09:33,160 --> 01:09:38,400
@@ -1758,11 +1758,11 @@ Oh che fiore di monello!
 
 438
 01:09:49,820 --> 01:09:51,820
-Alla giustizia ricorrete, Madonna.
+Alla giustizia ricorrete, Madonna
 
 439
 01:09:52,260 --> 01:09:56,800
-Io vo' vedere di ridurlo, se posso, colle buone.
+Io vo' vedere di ridurlo, se posso, colle buone
 
 440
 01:09:56,860 --> 01:09:58,860
@@ -1794,7 +1794,7 @@ Fratello mo, non si finisce mai...
 
 447
 01:10:35,380 --> 01:10:42,800
-Ed io son vecchia, e son piena di guai.
+Ed io son vecchia, e son piena di guai
 
 448
 01:11:19,180 --> 01:11:32,180
@@ -1812,7 +1812,7 @@ Ho una tosse che m'ammazza,
 
 451
 01:12:01,500 --> 01:12:15,300
-E patisco a respirar.
+E patisco a respirar
 
 452
 01:12:34,900 --> 01:12:36,900
@@ -1849,7 +1849,7 @@ Che ne dite ?
 
 460
 01:16:11,900 --> 01:16:13,900
-Ah figliola, sono quasi fuor di me.
+Ah figliola, sono quasi fuor di me
 
 461
 01:16:14,860 --> 01:16:19,000
@@ -1877,7 +1877,7 @@ Dunque è meglio esser povero?
 
 467
 01:16:43,180 --> 01:16:45,180
-Sicuro.
+Sicuro
 
 468
 01:16:45,420 --> 01:16:48,280
@@ -1934,7 +1934,7 @@ Chi è ?
 
 481
 01:17:37,560 --> 01:17:42,700
-Son io Filippo. Son Nencio.
+Son io Filippo. Son Nencio
 Aprite , non mi conoscete?
 
 482
@@ -1951,7 +1951,7 @@ Oh bella ! cosa voglio ?
 
 485
 01:17:50,460 --> 01:17:53,500
-Ho fatto tutto. Ho trovato il Notaio.
+Ho fatto tutto. Ho trovato il Notaio
 
 486
 01:17:53,500 --> 01:18:01,000
@@ -2006,7 +2006,7 @@ Tu sposarti alla Sandrina?
 
 498
 01:20:47,500 --> 01:20:50,660
-La gente mormora.
+La gente mormora
 
 499
 01:20:53,260 --> 01:21:05,260
@@ -2054,11 +2054,11 @@ Che sogni? Che riboboli?
 
 510
 01:23:24,260 --> 01:23:31,260
-Ah vecchiaccio! Questo è una furberia, questo è un rigiro per riderci di me, per strapazzarmi.
+Ah vecchiaccio! Questo è una furberia, questo è un rigiro per riderci di me, per strapazzarmi
 
 511
 01:23:32,220 --> 01:23:35,220
-Ne vo' vedere il fin, vo' sincerarmi.
+Ne vo' vedere il fin, vo' sincerarmi
 
 512
 01:23:37,380 --> 01:23:39,380
@@ -2086,7 +2086,7 @@ Io parlato italiano
 
 518
 01:23:55,900 --> 01:23:59,000
-Sì, parlate cristiano e allor v'intenderò.
+Sì, parlate cristiano e allor v'intenderò
 
 519
 01:23:59,000 --> 01:24:01,540
@@ -2102,7 +2102,7 @@ Sta venuto a sposar [parole inventate] Filippo
 
 522
 01:24:07,660 --> 01:24:09,660
-Mi fermato a [parole inventate] e non trovar.
+Mi fermato a [parole inventate] e non trovar
 
 523
 01:24:11,260 --> 01:24:13,260
@@ -2110,16 +2110,16 @@ Tu poter insegnar?
 
 524
 01:24:13,940 --> 01:24:15,940
-Io non intendo nemmeno una parola.
+Io non intendo nemmeno una parola
 
 525
 01:24:16,780 --> 01:24:21,080
 S: Ah, sta ubriaco?
-N: Bravo! Così va detto.
+N: Bravo! Così va detto
 
 526
 01:24:21,080 --> 01:24:23,860
-Mi conosciuto tua fisonomia.
+Mi conosciuto tua fisonomia
 
 527
 01:24:24,940 --> 01:24:26,940
@@ -2127,7 +2127,7 @@ Fenir meco tornar all'osteria
 
 528
 01:24:27,860 --> 01:24:29,860
-Oh giusto, ho altra voglia.
+Oh giusto, ho altra voglia
 
 529
 01:24:29,860 --> 01:24:32,100
@@ -2156,11 +2156,11 @@ Che storia è questa?
 
 535
 01:24:40,900 --> 01:24:42,900
-Mi voler, dar bottiglia sulla testa.
+Mi voler, dar bottiglia sulla testa
 
 536
 01:24:42,900 --> 01:24:45,700
-Eh non faccia; berò.
+Eh non faccia; berò
 
 537
 01:24:46,620 --> 01:24:51,960
@@ -2208,7 +2208,7 @@ Tu ballare, tu cantar
 
 548
 01:25:50,000 --> 01:25:55,000
-Je voler ubriacar.
+Je voler ubriacar
 
 549
 01:25:55,000 --> 01:26:00,000
@@ -2224,7 +2224,7 @@ Ora ho scoperto tutto
 
 552
 01:27:18,500 --> 01:27:21,800
-Ora capisco l'uscita di Filippo.
+Ora capisco l'uscita di Filippo
 
 553
 01:27:22,580 --> 01:27:24,580
@@ -2248,11 +2248,11 @@ Più non m'importa di quella scimunita
 
 558
 01:27:39,000 --> 01:27:45,420
-Per me è bella e finita, ma vo' almeno dirle un po' fuor de' denti il fatto mio.
+Per me è bella e finita, ma vo' almeno dirle un po' fuor de' denti il fatto mio
 
 559
 01:27:45,420 --> 01:27:48,180
-Farle vedere che so cantare anch' io.
+Farle vedere che so cantare anch' io
 
 560
 01:27:50,060 --> 01:27:52,540
@@ -2539,19 +2539,19 @@ già d'avermi a sbellicar
 
 630
 01:38:21,500 --> 01:38:25,240
-Stendiamoci sopra questa coperta.
+Stendiamoci sopra questa coperta
 
 631
 01:38:25,240 --> 01:38:30,840
-Quà una sedia. Quà un'altra. Uno sgabello. Un altro quà.
+Quà una sedia. Quà un'altra. Uno sgabello. Un altro quà
 
 632
 01:38:31,180 --> 01:38:32,180
-Va bene.
+Va bene
 
 633
 01:38:33,660 --> 01:38:39,800
-Oh figlia mia, tu sei nata vestita.
+Oh figlia mia, tu sei nata vestita
 
 634
 01:38:39,800 --> 01:38:41,800
@@ -2722,7 +2722,7 @@ si sposano i sequenti
 
 675
 01:46:20,460 --> 01:46:22,460
-I nomi chi gli sa ?
+I nomi chi gli sa?
 
 676
 01:46:23,020 --> 01:46:28,000
@@ -2734,7 +2734,7 @@ Il nome del padrone?
 
 678
 01:46:35,540 --> 01:46:37,540
-Il servo lo dirà.
+Il servo lo dirà
 
 679
 01:46:38,000 --> 01:46:40,260
