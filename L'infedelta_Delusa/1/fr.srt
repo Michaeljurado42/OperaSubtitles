@@ -1008,13 +1008,13 @@ Ah non, Seigneur !
 
 253
 00:33:41,560 --> 00:33:45,560
-Mais pourquoi me retiens-tu? 
+Mais pourquoi me retiens-tu?
 Qu'importe pour toi ce qui m'arrive?
 
 254
 00:33:45,560 --> 00:33:49,000
-Ne me repousses-tu pas? 
- Ce cœur ne m'a-t-il pas trompé?
+Ne me repousses-tu pas?
+Ce cœur ne m'a-t-il pas trompé?
 
 255
 00:33:49,560 --> 00:33:51,560
@@ -1026,8 +1026,8 @@ Non, Monsieur.
 
 257
 00:33:53,560 --> 00:33:57,560
-Je vais devenir fou! 
- Qui t'a appris ce jeu là?
+Je vais devenir fou!
+Qui t'a appris ce jeu là?
 
 258
 00:33:57,560 --> 00:34:01,000
@@ -1198,7 +1198,7 @@ Ce vieux fou, ce sorcier,
 qui n'est rien d'autre que des os et de la peau.
 
 300
-00:41:50,420 --> 00:41:54,420
+00:41:50,420 --> 00:42:24,000
 Il le regrettera, il devra se pendre.
 
 301
@@ -1278,11 +1278,11 @@ J'ai un diable sur la tête.
 Je veux me précipiter.
 
 320
-00:46:54,780 --> 00:46:56,780
-Parle. Qu'est-ce qui se passe, frère ?
+00:46:54,780 --> 00:46:58,200
+Parle! Qu'est-ce qui se passe, frère ?
 
 321
-00:46:56,780 --> 00:47:03,780
+00:46:58,200 --> 00:47:03,780
 Ah, tu me fais trembler !
 
 322
@@ -1295,7 +1295,8 @@ Parle, qu'est-ce qui se passe, frère ?
 
 324
 00:47:08,780 --> 00:47:11,780
-N: Je suis ruiné. S: Comment ? Pourquoi ?
+N: Je suis ruiné. 
+ V: Comment ? Pourquoi ?
 
 325
 00:47:11,780 --> 00:47:16,780
@@ -1334,8 +1335,9 @@ Et où est ce traître ?
 Avec Sandrina, à faire l'amour.
 
 334
-00:48:30,000 --> 00:48:32,000
-Avec Sandrina ? Parle, parle !
+00:48:30,000 --> 00:48:34,000
+V: Avec Sandrina? Parle, parle! 
+ N: Il est avec Nencio.
 
 335
 00:48:35,000 --> 00:48:36,000
@@ -1395,11 +1397,11 @@ Et avant l'aube, j'ai tant vagabondé ici et là,
 
 349
 01:03:50,000 --> 01:03:54,000
-et fait cela, si le diable ne traverse pas,
+et fait tant que, si le diable ne nous traverse pas,
 
 350
 01:03:54,000 --> 01:03:58,100
-J'espère perturber le mariage.
+j'espère perturber le mariage.
 
 351
 01:03:58,100 --> 01:04:03,100
@@ -1451,28 +1453,23 @@ Fais attention. Retire-toi.
 
 363
 01:04:48,440 --> 01:04:50,440
-Son lesto.
-- Je suis agile.
+Je suis agile.
 
 364
 01:04:50,440 --> 01:04:52,440
-Ecco il cimento.
-- Voilà le défi.
+Voilà le défi.
 
 365
 01:04:53,000 --> 01:04:54,440
-Sbrigati
-- Dépêche-toi.
+Dépêche-toi.
 
 366
 01:04:54,440 --> 01:04:57,200
-Vengo, e dov'è andiamo?
-- Je viens, mais où allons-nous ?
+Je viens, mais où allons-nous ?
 
 367
 01:04:57,200 --> 01:05:01,200
-Al giudice a dare una querela a quel bricon di Nanni
-- Au juge, pour porter plainte contre ce coquin de Nanni.
+Au juge, pour porter plainte contre ce coquin de Nanni.
 
 368
 01:05:01,900 --> 01:05:04,200
@@ -1492,7 +1489,7 @@ Je commencerai à trembler comme une feuille
 
 372
 01:05:14,200 --> 01:05:19,200
-Tremble, esprit, éclate, tu as encore beaucoup à voir.
+Tremble, esprit, éclate, tu dois venir quand même
 
 373
 01:05:19,200 --> 01:05:22,920
@@ -1595,7 +1592,7 @@ Oh, rien.
 "Parole dite ne revient pas", dit le proverbe.
 
 398
-01:06:57,300 --> 01:06:59,300
+01:06:57,300 --> 01:07:01,300
 "et qui ne sait pas se taire ne sait pas vivre", je sais.
 
 399
@@ -1603,8 +1600,8 @@ Oh, rien.
 Je ne suis pas une commère, que des bonnes recettes !
 
 400
-01:07:05,120 --> 01:07:07,120
-Mais pourtant, qui a de grands soucis fait beaucoup de bruit.
+01:07:05,120 --> 01:07:10,160
+Mais pourtant, "qui a de grands soucis fait beaucoup de bruit".
 
 401
 01:07:11,020 --> 01:07:15,020
@@ -1635,7 +1632,7 @@ Que le ciel la préserve.
 Elle est grande et belle, modeste et casanière.
 
 408
-01:07:43,260 --> 01:07:45,260
+01:07:43,260 --> 01:07:46,840
 Ouvrez les yeux, pauvre malheureuse.
 
 409
@@ -1656,7 +1653,7 @@ On en faisait tant d'éloges que c'était un plaisir.
 
 413
 01:08:04,180 --> 01:08:09,500
-Mais tant que tu as des dents dans la bouche, tu ne sais pas ce qui t'attend.
+"Mais tant que tu as des dents dans la bouche, tu ne sais pas ce qui t'attend",
 
 414
 01:08:09,940 --> 01:08:11,940
@@ -1664,14 +1661,14 @@ dit le proverbe
 
 415
 01:08:12,620 --> 01:08:17,000
-Qui ne fait rien ne se trompe pas, mais la vérité flotte toujours à la surface.
+"Qui ne fait rien ne se trompe pas, mais la vérité flotte toujours à la surface."
 
 416
 01:08:18,220 --> 01:08:20,220
 Et qu'est-ce qui lui est arrivé ?
 
 417
-01:08:21,260 --> 01:08:23,260
+01:08:21,260 --> 01:08:25,600
 Ce Nencio, un jour de carnaval, est venu à Peregola
 
 418
@@ -1679,11 +1676,11 @@ Ce Nencio, un jour de carnaval, est venu à Peregola
 Il l'a vue et est tombé amoureux
 
 419
-01:08:28,540 --> 01:08:30,540
+01:08:28,540 --> 01:08:32,160
 Tout le monde disait que c'était un bon parti.
 
 420
-01:08:32,500 --> 01:08:34,500
+01:08:32,500 --> 01:08:35,700
 et la jeune fille s'est laissée flatter.
 
 421
@@ -1732,14 +1729,14 @@ Pour allaiter ce pauvre enfant, imaginez comment elle fait.
 
 432
 01:09:38,400 --> 01:09:40,400
-qui mange de la colère et du poison
+"qui mange de la colère et du poison"
 
 433
 01:09:40,900 --> 01:09:44,000
 Elle ne dort même pas avec du coquelicot.
 
 434
-01:09:44,000 --> 01:09:46,000
+01:09:44,000 --> 01:09:47,000
 si on est plein de chagrin et de douleur sourde
 
 435
@@ -1747,7 +1744,7 @@ si on est plein de chagrin et de douleur sourde
 Oh, quel sacré garnement !
 
 436
-01:09:49,820 --> 01:09:51,820
+01:09:49,820 --> 01:09:52,000
 Recourez à la justice, madame.
 
 437
@@ -1755,23 +1752,23 @@ Recourez à la justice, madame.
 Je vais essayer de le raisonner, si je peux, en douceur.
 
 438
-01:09:56,860 --> 01:09:58,860
+01:09:56,860 --> 01:09:59,760
 Ce coquin ne mérite aucune pitié.
 
 439
-01:10:00,460 --> 01:10:02,460
+01:10:00,460 --> 01:10:05,200
 Ah, mon frère, les disputes et les tribunaux ne sont pas pour moi.
 
 440
 01:10:06,300 --> 01:10:11,300
-L'argent et l'amitié font sauter la justice.
+"L'argent et l'amitié font sauter la justice"
 
 441
 01:10:11,300 --> 01:10:13,300
-Dit le proverbe...
+dit le proverbe...
 
 442
-01:10:14,900 --> 01:10:16,900
+01:10:14,900 --> 01:10:18,320
 et celui qui n'a rien à graisser a toujours tort
 
 443
