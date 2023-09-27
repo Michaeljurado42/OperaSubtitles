@@ -556,27 +556,27 @@ soirée à tous [Applaudissements]
 
 140
 00:19:06,000 --> 00:19:17,000
-Belle soirée et doux vents
+Belle soirée et doux vents,
 
 141
 00:19:20,000 --> 00:19:28,000
-qui effacez le jour
+qui de la journée effacez
 
 142
 00:19:28,000 --> 00:19:34,000
-chaleur excessive et grande
+l'excessive et grande chaleur.
 
 143
 00:19:34,000 --> 00:19:43,000
-Belle soirée et doux vents
+Belle soirée et doux vents,
 
 144
 00:19:43,000 --> 00:19:54,000
-qui effacez le jour
+qui de la journée effacez
 
 145
 00:19:54,000 --> 00:20:15,000
-chaleur excessive et grande
+l'excessive et grande chaleur.
 
 146
 00:20:28,000 --> 00:20:41,000
@@ -699,7 +699,7 @@ Tu comprends, je n'ose pas parler
 En vérité, ce serait une grande incivilité
 
 176
-00:25:37,000 --> 00:25:39,000
+00:25:37,000 --> 00:25:44,800
 Vous priver de confort et de liberté
 
 177
@@ -900,14 +900,14 @@ Mon Dieu!
 
 226
 00:32:01,000 --> 00:32:06,000
-Le voilà : il vaut mieux que je parte.
+Le voilà! Il vaut mieux que je parte.
 
 227
-00:32:06,000 --> 00:32:09,000
+00:32:07,100 --> 00:32:09,000
 Où vas-tu Sandrina ?
 
 228
-00:32:09,000 --> 00:32:11,000
+00:32:09,000 --> 00:32:11,800
 Moi non plus, je ne sais pas.
 
 229
@@ -995,8 +995,8 @@ Tu me parles ainsi, et tu pleures ?
 Tu seras contente. Je vais me noyer dans un fossé.
 
 250
-00:33:26,000 --> 00:33:29,000
-ou je me précipiterai d'une falaise.
+00:33:26,000 --> 00:33:29,680
+Ou je me précipiterai d’une falaise et me romprai le cou
 
 251
 00:33:30,000 --> 00:33:36,000
@@ -1008,11 +1008,13 @@ Ah non, Seigneur !
 
 253
 00:33:41,560 --> 00:33:45,560
+Mais pourquoi me retiens-tu? 
 Qu'importe pour toi ce qui m'arrive?
 
 254
 00:33:45,560 --> 00:33:49,000
-Ne me repousses-tu pas ? Ce cœur ne m'a-t-il pas trompé?
+Ne me repousses-tu pas? 
+ Ce cœur ne m'a-t-il pas trompé?
 
 255
 00:33:49,560 --> 00:33:51,560
@@ -1024,7 +1026,8 @@ Non, Monsieur.
 
 257
 00:33:53,560 --> 00:33:57,560
-Qui t'a appris ce jeu là?
+Je vais devenir fou! 
+ Qui t'a appris ce jeu là?
 
 258
 00:33:57,560 --> 00:34:01,000
@@ -1071,12 +1074,12 @@ Mais dis, mais parle, mais décide enfin.
 M'aimes-tu ou ne m'aimes-tu pas? Dois-je partir ou rester?
 
 269
-00:34:26,000 --> 00:34:30,000
+00:34:26,000 --> 00:34:31,000
 Suis-je ton époux ou pas?
 
 270
 00:34:39,000 --> 00:34:44,000
-Quelle est cette confusion!
+Quelle est cette embrouille!
 
 271
 00:34:44,000 --> 00:34:47,000
@@ -2905,8 +2908,8 @@ Ce qui est fait est fait
 
 723
 01:50:10,940 --> 01:50:39,600
-Restons donc joyeux 
- dans un double mariage
+Restons donc joyeux
+dans un double mariage
 
 724
 01:50:47,980 --> 01:53:34,980
