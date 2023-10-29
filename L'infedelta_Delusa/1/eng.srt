@@ -1,212 +1,2277 @@
-﻿78
+﻿1
 00:19:06,000 --> 00:19:17,000
 Beautiful evening and gracious breezes
 
-79
+2
 00:19:20,000 --> 00:19:28,000
 that erase from the day
 
-80
+3
 00:19:28,000 --> 00:19:34,000
 excessive and great heat
 
-81
+4
 00:20:28,000 --> 00:20:41,000
 Blow even more calmly,
 
-82
+5
 00:20:41,000 --> 00:20:48,000
 grant our wishes
 
-83
+6
 00:20:48,000 --> 00:21:01,000
 Cheer our hearts
 
-84
+7
 00:22:03,000 --> 00:22:07,000
 And sir, do we understand each other?
 
-85
+8
 00:22:07,000 --> 00:22:11,000
 Yes sir, everything understood.
 
-86
+9
 00:22:11,000 --> 00:22:18,000
 There's no need to speak anymore.
 
-87
+10
 00:22:18,000 --> 00:22:23,000
 He leaves without saying goodbye...
 
-88
+11
 00:22:23,000 --> 00:22:26,000
 Where could my beloved be?
 
-89
+12
 00:22:26,000 --> 00:22:33,000
 I'm starting to suspect.
 
-90
+13
 00:22:39,500 --> 00:22:54,500
 Heaven conspires to my design.
 
-91
+14
 00:22:54,500 --> 00:23:05,500
 Beautiful prospect, I'm committed with good judgment to its triumph.
 
-92
+15
 00:23:12,500 --> 00:23:18,500
 Ah father, being such to me, you love me.
 
-93
+16
 00:23:19,000 --> 00:23:26,000
 Come on, tell me the rest for goodness sake.
 
-94
+17
 00:23:26,440 --> 00:23:31,000
 It's my time.
 
-95
+18
 00:23:31,000 --> 00:23:45,000
 It's my time and there's nothing more to be done.
 
-96
+19
 00:23:45,000 --> 00:23:50,000
 Ah father, Ah father.
 
-97
+20
 00:23:52,000 --> 00:23:57,000
 Speak I beg you.
 
-98
+21
 00:24:21,200 --> 00:24:27,000
 Now, my daughter, it's best to stay silent.
 
-99
+22
 00:24:28,000 --> 00:24:35,000
 Secret discussions dont always remain so.
 
-100
+23
 00:24:35,000 --> 00:24:42,000
 Do you understand, do you get my meaning?
 
-101
+24
 00:24:42,000 --> 00:24:54,000
 I dare not speak.
 
-102
+25
 00:25:17,000 --> 00:25:27,000
 Now, my daughter, it's best to stay silent, I dare not speak.
 
-103
+26
 00:25:27,000 --> 00:25:30,000
 You get my meaning, I dare not speak.
 
-104
+27
 00:25:30,000 --> 00:25:37,000
 Truly, it would be a great incivility
 
-105
+28
 00:25:37,000 --> 00:25:44,000
 to deprive you of comfort and freedom.
 
-106
+29
 00:25:45,000 --> 00:25:50,000
 Let's go, brother, let's go.
 
-107
+30
 00:25:50,000 --> 00:26:02,000
 Let's go sister, to dine for now.
 
-108
+31
 00:26:41,000 --> 00:26:49,000
 Each one keeps their agreement, everyone.
 
-109
+32
 00:26:49,000 --> 00:26:56,000
 We may see each other with the passing of time.
 
-110
+33
 00:27:01,000 --> 00:27:15,000
 We can happily converse among ourselves.
 
-111
+34
 00:28:13,000 --> 00:28:18,000
 Yes, daughter, in the end I've found you a husband.
 
-112
+35
 00:28:18,000 --> 00:28:20,000
 And when?
 
-113
+36
 00:28:20,000 --> 00:28:22,000
 Now, the deal is concluded.
 
-114
+37
 00:28:22,000 --> 00:28:24,000
 With Nanni?
 
-115
+38
 00:28:24,000 --> 00:28:27,000
 Oh, Nanni indeed! He can wipe that drool off his chin.
 
-116
+39
 00:28:27,000 --> 00:28:31,000
 This time, he won't get any.
 
-117
+40
 00:28:31,000 --> 00:28:33,000
 But...
 
-118
+41
 00:28:33,000 --> 00:28:39,000
 There aren't many 'buts', my daughter, Nanni is poor.
 
-119
+42
 00:28:39,000 --> 00:28:41,000
 And I who am rich?
 
-120
+43
 00:28:41,000 --> 00:28:43,000
 You will be.
 
-121
+44
 00:28:43,000 --> 00:28:49,000
 What does it matter if I'll be rich, if I won't be happy?
 
-122
+45
 00:28:49,800 --> 00:28:51,000
 And why not?
 
-123
+46
 00:28:51,000 --> 00:28:54,400
 Because I love him.
 
-124
+47
 00:28:54,400 --> 00:29:00,400
 You make me laugh. Now, you'll love this one.
 
-125
+48
 00:29:00,400 --> 00:29:06,400
 But how can one love another, when one turns from their beloved?
 
-126
+49
 00:29:06,400 --> 00:29:09,400
 Easily, girls don't have a will of their own.
 
-127
+50
 00:29:11,400 --> 00:29:14,000
 But when it comes from within, what can be done?
 
-128
+51
 00:29:14,000 --> 00:29:16,600
 One obeys and stays silent.
 
-129
+52
 00:29:17,900 --> 00:29:24,200
 But what should I do, if Nanni comes with such charm?
 
-130
+53
 00:29:24,200 --> 00:29:28,200
 Turn your back to him, and walk away.
 
+54
+00:29:49,200 --> 00:30:08,200
+When he comes to make love, you must always tell him no.
+
+55
+00:30:09,200 --> 00:30:12,200
+Do you care for me?
+
+56
+00:30:12,200 --> 00:30:16,200
+No, sir.
+
+57
+00:30:16,200 --> 00:30:18,200
+Sir, no.
+
+58
+00:30:21,200 --> 00:30:23,200
+Do you want to marry me?
+
+59
+00:30:23,200 --> 00:30:25,700
+Sir, no.
+
+60
+00:30:27,000 --> 00:30:32,320
+I know well what I'm doing.
+
+61
+00:30:34,500 --> 00:30:38,000
+I'm your father,
+
+62
+00:30:38,000 --> 00:30:42,000
+and this is my wish.
+
+63
+00:30:50,000 --> 00:30:52,900
+Beware of saying yes to him
+
+64
+00:31:21,000 --> 00:31:27,000
+Poor me! Poor Nanni!
+
+65
+00:31:27,700 --> 00:31:37,000
+How can I keep saying no to him when I always want to say yes?
+
+66
+00:31:38,000 --> 00:31:41,000
+He cares for me so much!
+
+67
+00:31:41,500 --> 00:31:45,000
+We've been bonded in love for so long,
+
+68
+00:31:45,000 --> 00:31:48,000
+and to leave him like this...
+
+69
+00:31:49,100 --> 00:31:52,000
+breaks my heart.
+
+70
+00:31:53,000 --> 00:31:58,000
+Yet, I must obey and so perish.
+
+71
+00:31:58,000 --> 00:32:00,000
+For Heaven's sake!
+
+72
+00:32:01,000 --> 00:32:06,000
+There he is; it might be better if I leave.
+
+73
+00:32:06,000 --> 00:32:09,000
+Where are you going, Sandrina?
+
+74
+00:32:09,000 --> 00:32:11,500
+I don't even know myself.
+
+75
+00:32:12,000 --> 00:32:13,000
+Are you perchance angry?
+
+76
+00:32:13,000 --> 00:32:15,000
+No!
+
+77
+00:32:15,000 --> 00:32:17,000
+But, you seem troubled.
+
+78
+00:32:17,000 --> 00:32:19,000
+Your eyes are red.
+
+79
+00:32:19,000 --> 00:32:23,000
+You look like you've been crying.
+
+80
+00:32:23,000 --> 00:32:27,000
+Tell me, dear, what happened?
+
+81
+00:32:27,000 --> 00:32:29,000
+Nothing.
+
+82
+00:32:29,000 --> 00:32:31,400
+But why won't you look at me?
+
+83
+00:32:31,400 --> 00:32:33,900
+Why won't you speak to me?
+
+84
+00:32:33,900 --> 00:32:36,900
+Because... no.
+
+85
+00:32:37,000 --> 00:32:40,500
+What? What have I done?
+
+86
+00:32:40,500 --> 00:32:42,500
+I don't know...
+
+87
+00:32:42,500 --> 00:32:46,500
+Poor me! What does this mean?
+
+88
+00:32:46,500 --> 00:32:53,500
+Is it that you do not care for me anymore? That you share no more love for me?
+
+89
+00:32:53,500 --> 00:32:57,500
+(And yet I must say it) No, sir.
+
+90
+00:32:58,000 --> 00:33:05,500
+What? Am I not the one you've loved until now, the one who loved you faithfully?
+
+91
+00:33:05,500 --> 00:33:07,500
+The one who was to marry you?
+
+92
+00:33:07,500 --> 00:33:09,500
+No, sir.
+
+93
+00:33:09,500 --> 00:33:14,000
+You speak to me this way, and yet you cry?
+
+94
+00:33:14,000 --> 00:33:21,500
+Black soul! Deceitful, wicked girl, you wish for my downfall, you desire my death.
+
+95
+00:33:22,000 --> 00:33:26,000
+You'll be pleased. I'll go drown myself in some ditch.
+
+96
+00:33:26,000 --> 00:33:29,000
+or from some cliff, I'll go and break my neck.
+
+97
+00:33:30,000 --> 00:33:36,000
+With such a thorn in my heart, I can't go on living.
+
+98
+00:33:36,000 --> 00:33:38,560
+Ah no, sir!
+
+99
+00:33:41,560 --> 00:33:45,560
+But why do you hold me back? What do you care about me?
+
+100
+00:33:45,560 --> 00:33:49,000
+You don't send me away? Does this heart not betray me?
+
+101
+00:33:49,560 --> 00:33:51,560
+You won't leave me, cruel one?
+
+102
+00:33:51,560 --> 00:33:53,560
+No, sir.
+
+103
+00:33:53,560 --> 00:33:57,560
+I'm going mad. Who taught you such an air?
+
+104
+00:33:57,560 --> 00:34:01,000
+(Truly, it's better if I go away.)
+
+105
+00:34:01,700 --> 00:34:03,000
+You're leaving?
+
+106
+00:34:03,000 --> 00:34:03,600
+No.
+
+107
+00:34:03,600 --> 00:34:06,000
+Are you driving me away? Should I leave you?
+
+108
+00:34:06,000 --> 00:34:06,700
+No.
+
+109
+00:34:06,700 --> 00:34:08,400
+Are you disgusted?
+
+110
+00:34:08,400 --> 00:34:09,400
+No.
+
+111
+00:34:09,400 --> 00:34:11,000
+Cursed 'no'!
+
+112
+00:34:11,000 --> 00:34:13,000
+(I'm desperate.)
+
+113
+00:34:14,000 --> 00:34:19,000
+But speak, but talk, finally decide.
+
+114
+00:34:19,000 --> 00:34:26,000
+Do you love me or not? Should I leave or stay?
+
+115
+00:34:26,000 --> 00:34:30,000
+Am I to be your husband or not?
+
+116
+00:34:39,000 --> 00:34:44,000
+What a tangled web this is!
+
+117
+00:34:44,000 --> 00:34:47,000
+What do you want me to say? What do you want me to do?
+
+118
+00:34:47,000 --> 00:34:55,000
+My hostile father scolds and threatens me if I speak of loving you, if I say yes.
+
+119
+00:34:58,000 --> 00:35:09,000
+He commands and tells me he found a husband, that I mustn't oppose, that it's a better match.
+
+120
+00:35:15,000 --> 00:35:21,000
+I must leave you; I can't speak to you.
+
+121
+00:35:21,000 --> 00:35:23,000
+I mustn't oppose.
+
+122
+00:35:27,000 --> 00:35:29,000
+No, I mustn't...
+
+123
+00:35:52,000 --> 00:36:00,000
+What a tangled web this is!
+
+124
+00:36:01,000 --> 00:36:06,000
+I must leave you; I can't speak to you.
+
+125
+00:36:06,000 --> 00:36:14,000
+And I'm dying of distress. Is this enough for you?
+
+126
+00:37:32,180 --> 00:37:34,180
+Now I understand what is going on
+
+127
+00:37:35,180 --> 00:37:43,180
+That baboon, that raging old sorcerer, has orchestrated this farce at my expense.
+
+128
+00:37:44,180 --> 00:37:53,180
+But I'll see for myself. I want to know who dares to take the bread from my mouth.
+
+129
+00:37:56,180 --> 00:38:04,180
+Sandra is mine. Without her, I couldn't live.
+
+130
+00:38:06,060 --> 00:38:08,060
+Poor Nanni!
+
+131
+00:38:08,700 --> 00:38:13,000
+It's been more than three years that I've been courting her.
+
+132
+00:38:13,000 --> 00:38:19,000
+Every day, I bring her fruits or a small bouquet.
+
+133
+00:38:19,000 --> 00:38:28,000
+And every night, I serenade her under her window with my little guitar.
+
+134
+00:38:31,060 --> 00:38:35,060
+Is another dandy, who besides is unknown to me,
+
+135
+00:38:35,060 --> 00:38:39,060
+coming to mess up my plans?
+
+136
+00:38:40,580 --> 00:38:44,580
+I want to go to her father, I want to know who he is.
+
+137
+00:38:44,580 --> 00:38:48,580
+I want him to tell me everything, from A to Z.
+
+138
+00:38:49,660 --> 00:39:01,660
+And once he's revealed the whole mystery to me, one of us is bound for the cemetery.
+
+139
+00:39:16,580 --> 00:39:31,580
+There's no remedy, no compensation.
+
+140
+00:39:31,580 --> 00:39:35,580
+I feel a gnawing when I think of it.
+
+141
+00:39:35,580 --> 00:39:39,580
+I'm all bile, all poison.
+
+142
+00:39:39,580 --> 00:39:44,580
+My insides burn, my chest is on fire.
+
+143
+00:39:44,860 --> 00:39:49,860
+Before losing her, I'd rather die.
+
+144
+00:41:45,420 --> 00:41:47,420
+That old coot, that sorcerer,
+
+145
+00:41:47,420 --> 00:41:50,420
+who is nothing but bones and skin,
+
+146
+00:41:50,420 --> 00:41:54,420
+will regret it, and will swing for it.
+
+147
+00:45:07,660 --> 00:45:15,660
+Here's my dinner ready: spring water, a bit of salad, and Moroccan bread.
+
+148
+00:45:15,660 --> 00:45:18,660
+It's a meal fit for a king.
+
+149
+00:45:20,300 --> 00:45:24,300
+But kings don't have to make their meals tasty
+
+150
+00:45:24,300 --> 00:45:29,300
+the salsa of fasting and labor.
+
+151
+00:45:30,740 --> 00:45:35,740
+Goodness! It's already night,
+and Nencio hasn't come yet.
+
+152
+00:45:35,740 --> 00:45:43,740
+I wouldn't want the devil to stick in his hoof and lead him astray.
+
+153
+00:45:45,220 --> 00:45:49,220
+He hasn't shown up all day.
+
+154
+00:45:49,220 --> 00:45:59,220
+Tonight, I noticed him all troubled and flustered, responding with stammers, and grimacing.
+
+155
+00:46:01,580 --> 00:46:04,580
+Why am I so poor?
+
+156
+00:46:04,580 --> 00:46:08,000
+Why is he rich and has some stake under the sun?
+
+157
+00:46:08,000 --> 00:46:11,000
+Everyone envies me, everyone wants him.
+
+158
+00:46:12,000 --> 00:46:19,000
+If he had nothing, I'd have no rivals, and I'd be happier.
+
+159
+00:46:21,700 --> 00:46:23,700
+But I hear someone. Here he is.
+
+160
+00:46:26,060 --> 00:46:28,060
+Ah, it's not him...
+
+161
+00:46:29,060 --> 00:46:34,060
+It's my Nanni, returning distraught and weary.
+
+162
+00:46:34,580 --> 00:46:37,000
+What the devil is happening?
+
+163
+00:46:42,780 --> 00:46:46,080
+I'm desperate
+
+164
+00:46:46,780 --> 00:46:49,780
+I have a demon in my hair
+
+165
+00:46:49,780 --> 00:46:54,780
+I want to jump off a cliff
+
+166
+00:46:54,780 --> 00:46:56,780
+Speak. What is it, brother?
+
+167
+00:46:56,780 --> 00:47:03,780
+Ah, you make me tremble!
+
+168
+00:47:03,780 --> 00:47:05,780
+What has happened?
+
+169
+00:47:05,780 --> 00:47:08,780
+Speak, what is it, brother?
+
+170
+00:47:08,780 --> 00:47:11,780
+N: I'm ruined
+V: How? Why?
+
+171
+00:47:11,780 --> 00:47:16,780
+My Sandrina is not for me
+
+172
+00:47:16,780 --> 00:47:18,780
+Who has slighted you such?
+
+173
+00:47:18,780 --> 00:47:20,780
+Your Nencio is taking her from me
+
+174
+00:47:20,780 --> 00:47:22,780
+My Nencio? Really?
+
+175
+00:47:23,000 --> 00:47:30,000
+Oh what anger, oh what torment!
+
+176
+00:47:30,000 --> 00:47:36,000
+I feel my heart pounding,
+
+177
+00:47:36,060 --> 00:47:40,060
+It cannot end like this
+
+178
+00:48:22,580 --> 00:48:25,500
+And where is that traitor?
+
+179
+00:48:26,300 --> 00:48:30,000
+With Sandrina, making love
+
+180
+00:48:30,000 --> 00:48:32,000
+With Sandrina? Speak, speak!
+
+181
+00:48:35,000 --> 00:48:36,000
+That traitor...
+
+182
+00:48:42,380 --> 00:48:44,980
+Ah, you make me tremble
+
+183
+00:50:04,300 --> 00:50:10,300
+Hurry, hurry, hurry,
+let's go find them
+
+184
+00:50:13,140 --> 00:50:38,140
+I want to tear out his heart,
+I want to gut him
+
+185
+00:50:45,780 --> 00:50:47,780
+[Applause]
+
+186
+00:51:57,380 --> 00:51:59,380
+[Music]
+
+187
+01:03:21,140 --> 01:03:24,140
+What will you do with so much clothes on,
+
+188
+01:03:25,000 --> 01:03:29,640
+It looks like you've raided a Haberdashery?
+
+189
+01:03:30,380 --> 01:03:35,580
+Oh brother, last night I did not act as you did,
+
+190
+01:03:35,580 --> 01:03:39,000
+who made such a ruckus,
+
+191
+01:03:39,200 --> 01:03:43,000
+And then slept soundly like a rock.
+
+192
+01:03:43,300 --> 01:03:45,300
+I haven't slept a wink
+
+193
+01:03:45,620 --> 01:03:50,000
+And before dawn, I wandered hither and thither,
+
+194
+01:03:50,000 --> 01:03:54,000
+and have made it so that, unless the devil intervenes,
+
+195
+01:03:54,000 --> 01:03:58,100
+I hope to thwart the wedding.
+
+196
+01:03:58,100 --> 01:04:03,100
+Well, you know, the early bird catches the worm
+
+197
+01:04:03,100 --> 01:04:07,100
+Anyway, you're a remarkable woman if you succeed.
+
+198
+01:04:07,100 --> 01:04:12,000
+Do you think Filippa might recognize me?
+
+199
+01:04:12,000 --> 01:04:14,000
+Not in the slightest.
+
+200
+01:04:14,000 --> 01:04:16,000
+Does this fit me well?
+
+201
+01:04:16,000 --> 01:04:22,500
+Enchantingly, in these clothes you look just like an eighty-year-old woman.
+
+202
+01:04:23,000 --> 01:04:25,000
+And with the other outfit?
+
+203
+01:04:28,060 --> 01:04:29,520
+In that one, well...
+
+204
+01:04:29,520 --> 01:04:35,900
+Trying to turn a woman into a man seems a bit ridiculous to me,
+
+205
+01:04:36,300 --> 01:04:41,000
+And you might lack some... appendages.
+
+206
+01:04:41,000 --> 01:04:44,440
+Quiet, I hear people. It's time.
+
+207
+01:04:44,440 --> 01:04:48,440
+Be careful. Retreat!
+
+208
+01:04:48,440 --> 01:04:50,440
+Right Away
+
+209
+01:04:50,440 --> 01:04:52,440
+Now for the moment of truth
+
+210
+01:04:53,000 --> 01:04:54,440
+Hurry up.
+
+211
+01:04:54,440 --> 01:04:57,200
+I'm coming, where are we going?
+
+212
+01:04:57,200 --> 01:05:01,200
+To the judge to file a complaint against that scoundrel Nanni.
+
+213
+01:05:01,900 --> 01:05:04,200
+Oh, dear father...
+
+214
+01:05:05,200 --> 01:05:08,200
+All aflutter, you'll soon see,
+
+215
+01:05:08,200 --> 01:05:10,200
+that if the notary wishes to examine me,
+
+216
+01:05:10,200 --> 01:05:14,200
+I'll start shaking like a leaf.
+
+217
+01:05:14,200 --> 01:05:19,200
+Shake, quiver, crumble,
+You've got to go.
+
+218
+01:05:20,200 --> 01:05:22,920
+Pray, sir, may I inquire,
+
+219
+01:05:22,920 --> 01:05:27,920
+is a certain Nencio the lout residing here?
+
+220
+01:05:27,920 --> 01:05:29,400
+No, sister.
+
+221
+01:05:29,400 --> 01:05:33,600
+Alas, just my luck!
+
+222
+01:05:33,600 --> 01:05:35,800
+I must have taken the wrong path.
+
+223
+01:05:35,800 --> 01:05:39,600
+I've been walking for four hours, sir,
+
+224
+01:05:39,600 --> 01:05:46,360
+searching, asking, inquiring, questioning, and I can't find him...
+
+225
+01:05:46,700 --> 01:05:50,120
+I believe I've traversed the whole plain.
+
+226
+01:05:50,120 --> 01:05:53,560
+I'll show you the way; he's not far.
+
+227
+01:05:53,560 --> 01:05:57,040
+Ah, so weary, and at this age,
+
+228
+01:05:57,040 --> 01:05:59,040
+unfortunately, it will be far the same.
+
+229
+01:05:59,040 --> 01:06:00,940
+There it is.
+
+230
+01:06:00,940 --> 01:06:03,400
+May heaven reward you.
+
+231
+01:06:04,000 --> 01:06:07,000
+Oh brother, you're a lifesaver
+
+232
+01:06:07,140 --> 01:06:15,140
+If you only knew the trouble I'm in because of that man...
+
+233
+01:06:16,620 --> 01:06:22,000
+"But, one must swallow and remain silent" says the proverb.
+
+234
+01:06:22,780 --> 01:06:26,780
+and "those without judgment better have good legs."
+
+235
+01:06:28,580 --> 01:06:31,480
+What business do you have with him?
+
+236
+01:06:31,700 --> 01:06:36,100
+Of that I can't speak, I must remain silent and bite my tongue
+
+237
+01:06:37,420 --> 01:06:40,720
+S: Poor soul!
+F: (She piques my curiosity greatly.)
+
+238
+01:06:42,740 --> 01:06:46,400
+You can speak freely with me
+
+239
+01:06:46,400 --> 01:06:48,400
+(That is the husband)
+
+240
+01:06:48,400 --> 01:06:49,200
+What do you say?!
+
+241
+01:06:49,200 --> 01:06:50,800
+Oh, nothing
+
+242
+01:06:50,800 --> 01:06:57,300
+"Once spoken, words don’t return to the mouth," says the proverb
+
+243
+01:06:57,300 --> 01:07:01,300
+"and he who doesn’t know how to stay silent doesn’t know how to live," I know
+
+244
+01:07:01,460 --> 01:07:05,120
+I'm not a gossip, except of good recipes!
+
+245
+01:07:05,120 --> 01:07:09,880
+But those with great troubles, make a loud cry
+
+246
+01:07:11,020 --> 01:07:15,020
+Speak on, there's no risk in venting to me
+
+247
+01:07:18,020 --> 01:07:22,620
+I tear up when I think of it
+
+248
+01:07:23,460 --> 01:07:25,460
+Poor dear daughter!
+
+249
+01:07:25,740 --> 01:07:27,740
+Poor creatures!
+
+250
+01:07:30,700 --> 01:07:34,700
+You still have, from what I see, a daughter:
+
+251
+01:07:34,940 --> 01:07:36,940
+May heaven preserve her for you
+
+252
+01:07:37,860 --> 01:07:42,860
+She is tall and beautiful, modest, and domestic
+
+253
+01:07:43,260 --> 01:07:46,720
+Open your eyes, poor wretched woman
+
+254
+01:07:47,420 --> 01:07:51,420
+Don't drown here like I have done
+
+255
+01:07:52,380 --> 01:07:54,380
+She was just like you, my dear girl,
+
+256
+01:07:55,100 --> 01:07:58,800
+Wise and beautiful, and throughout the neighborhood
+
+257
+01:07:59,260 --> 01:08:04,040
+everyone marvelled at her so much, it was pure joy.
+
+258
+01:08:05,000 --> 01:08:09,500
+"As long as you have teeth in your mouth, you don't know what's in store for you,"
+
+259
+01:08:09,940 --> 01:08:11,940
+says the proverb.
+
+260
+01:08:12,620 --> 01:08:17,000
+"Those who do nothing make no mistakes, but the truth always floats to the surface,"
+
+261
+01:08:18,220 --> 01:08:20,220
+And what happened to her?
+
+262
+01:08:21,260 --> 01:08:23,260
+This Nencio, on Carnival, came to Peregola
+
+263
+01:08:25,820 --> 01:08:27,820
+He saw her and became infatuated
+
+264
+01:08:28,540 --> 01:08:32,240
+Everyone said he was such a good match
+
+265
+01:08:32,500 --> 01:08:34,500
+and the girl let herself be charmed
+
+266
+01:08:36,420 --> 01:08:41,420
+The fire ignited, and the devil fiercely fanned the flames,
+
+267
+01:08:41,780 --> 01:08:45,000
+that they secretly wed in haste.
+
+268
+01:08:46,740 --> 01:08:50,050
+(Nencio married! Oh, the rascal!)
+
+269
+01:08:51,060 --> 01:08:53,060
+For a while, he played the good husband.
+
+270
+01:08:53,060 --> 01:08:57,990
+Gradually, he grew distant, until he completely pulled away.
+
+271
+01:08:59,300 --> 01:09:05,120
+Now, brother, it's been three days since he's shown himself,
+
+272
+01:09:05,120 --> 01:09:09,200
+and he's left her without bread, without meat,
+
+273
+01:09:09,200 --> 01:09:16,500
+alone in bed with two children in the cradle, and one at her breast.
+
+274
+01:09:18,060 --> 01:09:22,200
+S: My God, what a scoundrel! And you wanted...
+F: Quiet!
+
+275
+01:09:22,580 --> 01:09:28,700
+Just imagine how she manages nursing that poor child
+
+276
+01:09:33,160 --> 01:09:38,400
+"The barrel gives the wine it has," says the proverb.
+
+277
+01:09:38,400 --> 01:09:40,400
+"To feed on anger is to drink of poison,"
+
+278
+01:09:40,900 --> 01:09:44,000
+sleep eludes, even with poppy's aid,
+
+279
+01:09:44,000 --> 01:09:46,000
+when filled with such deep sorrow and quiet pain.
+
+280
+01:09:47,540 --> 01:09:49,540
+Oh, what a scoundrel!
+
+281
+01:09:49,820 --> 01:09:51,820
+You should seek justice, madam.
+
+282
+01:09:52,260 --> 01:09:56,800
+I hope to bring him around, if possible, through reason.
+
+283
+01:09:56,860 --> 01:09:58,860
+This rogue deserves no mercy.
+
+284
+01:10:00,460 --> 01:10:05,160
+Ah, brother, legal disputes and courts are not for me.
+
+285
+01:10:06,300 --> 01:10:11,300
+"Money and friendship break justice's neck,"
+
+286
+01:10:11,300 --> 01:10:13,300
+says the proverb...
+
+287
+01:10:14,900 --> 01:10:18,240
+"and he who dosen't 'grease the weal' is always wrong."
+
+288
+01:10:19,660 --> 01:10:27,660
+And then there are hearings, mandates, appeals, citations, contradictions, examinations, and witnesses.
+
+289
+01:10:27,820 --> 01:10:34,000
+My dear brother, it never ends...
+
+290
+01:10:35,380 --> 01:10:42,800
+And I am old, and full of woes.
+
+291
+01:11:19,180 --> 01:11:32,180
+I have a tumor in my knee
+that forces me to limp.
+
+292
+01:11:38,260 --> 01:11:51,960
+I have a fistula in this eye
+that always makes me tear up.
+
+293
+01:11:51,960 --> 01:12:01,000
+I have a cough that's killing me,
+
+294
+01:12:01,500 --> 01:12:15,300
+And I struggle to breathe.
+
+295
+01:12:34,900 --> 01:12:36,900
+That poor girl...
+
+296
+01:12:39,660 --> 01:12:44,920
+She's on the verge of fading away.
+
+297
+01:12:47,340 --> 01:12:54,800
+Ah, what will become of me?
+
+298
+01:12:55,100 --> 01:13:11,110
+If on top of so many woes, I had to face litigation.
+
+299
+01:13:49,460 --> 01:14:03,460
+I have a tumor in my knee
+that forces me to limp.
+
+300
+01:16:10,220 --> 01:16:11,900
+Che ne dite ?
+What do you think?
+
+301
+01:16:11,900 --> 01:16:13,900
+Ah, my child, I've nearly lost my mind
+
+302
+01:16:14,860 --> 01:16:19,000
+If Nencio has a wife, he can't marry me?
+
+303
+01:16:19,420 --> 01:16:21,420
+We'll send him to marry the pillory.
+
+304
+01:16:21,740 --> 01:16:27,000
+Scoundrel! Rogue! Woe to him if he comes before me.
+
+305
+01:16:28,460 --> 01:16:30,460
+Yet you say he's rich...?
+
+306
+01:16:32,300 --> 01:16:39,440
+Oh, perhaps riches are a privilege for those with wicked inclinations to become scoundrels.
+
+307
+01:16:40,380 --> 01:16:42,380
+So, it's better to be poor?
+
+308
+01:16:43,180 --> 01:16:45,180
+Certainly.
+
+309
+01:16:45,420 --> 01:16:48,280
+Better to be miserable than wicked.
+
+310
+01:16:49,180 --> 01:16:55,480
+Ah, if the devil brings him to me again, I don't know what I'll do with that unworthy.
+
+311
+01:16:55,900 --> 01:16:57,900
+S: There he is!
+F: We'd better avoid the confrontation.
+
+312
+01:17:00,980 --> 01:17:05,890
+Hey Filippo! Sandrina! Don't shut the door, listen!
+
+313
+01:17:08,260 --> 01:17:10,260
+What's the meaning of this fine courtesy?
+
+314
+01:17:10,540 --> 01:17:14,480
+They surely saw me and know the reason I'm tracking them down,
+
+315
+01:17:14,480 --> 01:17:17,120
+and yet they slam the door in my face like this.
+
+316
+01:17:18,700 --> 01:17:20,700
+I want to know what's going on.
+
+317
+01:17:24,600 --> 01:17:26,600
+Is no one answering?
+
+318
+01:17:26,600 --> 01:17:28,600
+Hey, anyone home?
+
+319
+01:17:30,980 --> 01:17:32,980
+Really? By Bacchus!
+
+320
+01:17:32,980 --> 01:17:34,980
+Hey, anyone home?
+
+321
+01:17:35,800 --> 01:17:37,550
+Chi è ?
+Who is it?
+
+322
+01:17:37,560 --> 01:17:42,700
+It's me, Filippo. It's Nencio.
+Open up, don't you recognize me?
+
+323
+01:17:42,700 --> 01:17:44,940
+Figures, were you deaf? [REVISIT]
+
+324
+01:17:45,900 --> 01:17:47,900
+And what do you want?
+
+325
+01:17:48,060 --> 01:17:50,060
+Oh, really? What do I want?
+
+326
+01:17:50,460 --> 01:17:53,500
+I've done everything. I've found the notary.
+
+327
+01:17:53,500 --> 01:18:01,000
+I've invited the relatives and if you want, the wedding can be held tonight.
+
+328
+01:18:01,500 --> 01:18:04,000
+You can go marry a galley
+
+329
+01:18:05,740 --> 01:18:07,740
+Rogue, scoundrel,
+Accursed rascal!
+
+330
+01:18:09,100 --> 01:18:12,400
+Go to your wife,
+Go feed your children.
+
+331
+01:18:12,660 --> 01:18:14,000
+Unworthy!
+
+332
+01:18:14,300 --> 01:18:18,300
+Get out of my sight, or taste this rod
+
+333
+01:18:32,400 --> 01:18:42,000
+You would marry Sandrina?
+
+334
+01:18:42,620 --> 01:18:47,720
+Get that thought out of your head.
+
+335
+01:18:47,720 --> 01:19:05,720
+Either the gallows or the pillory, perhaps one day, will marry you.
+
+336
+01:19:07,300 --> 01:19:18,300
+Never come before me again, true scum of scoundrels.
+
+337
+01:19:18,940 --> 01:19:29,160
+Full of vices and sins
+
+338
+01:19:29,160 --> 01:19:48,120
+without love, nor charity.
+
+339
+01:20:28,980 --> 01:20:34,980
+You would marry Sandrina?
+
+340
+01:20:48,300 --> 01:20:53,100
+People are murmering,
+
+341
+01:20:53,260 --> 01:21:05,260
+The miserable wife begs for mercy.
+
+342
+01:21:05,260 --> 01:21:13,160
+The unfortunate abandoned has no aid,
+
+343
+01:21:13,620 --> 01:21:18,000
+She has no bread.
+
+344
+01:21:20,100 --> 01:21:31,100
+Never come before me again, true scum of scoundrels
+
+345
+01:22:20,420 --> 01:22:43,420
+without love, nor charity.
+
+346
+01:23:37,380 --> 01:23:39,380
+Countryman!
+
+347
+01:23:39,540 --> 01:23:40,740
+Who is this?
+
+348
+01:23:42,260 --> 01:23:47,260
+[Invented words]
+
+349
+01:23:49,000 --> 01:23:51,000
+No answer?
+
+350
+01:23:51,060 --> 01:23:53,060
+Sir, I don't understand.
+
+351
+01:23:53,340 --> 01:23:55,340
+I speak 'Italiano'.
+
+352
+01:23:55,900 --> 01:23:59,000
+Yes, speak 'Christiano' and then I'll understand you.
+
+353
+01:23:59,000 --> 01:24:01,540
+Where is my master?
+
+354
+01:24:01,580 --> 01:24:02,650
+And how would I know?
+
+355
+01:24:02,660 --> 01:24:07,660
+He come to marry [invented words] Filippo.
+
+356
+01:24:07,660 --> 01:24:11,240
+I stop at [invented words] and not find.
+
+357
+01:24:11,260 --> 01:24:13,260
+Can you teach me?
+
+358
+01:24:13,940 --> 01:24:15,940
+I don't understand even a single word.
+
+359
+01:24:16,780 --> 01:24:21,080
+V: Ah, is he drunk?
+N: Bravo! That's the way to put it.
+
+360
+01:24:21,080 --> 01:24:23,860
+I had recognizing your face.
+
+361
+01:24:24,940 --> 01:24:26,940
+From with me, we go back to the pub?
+
+362
+01:24:27,860 --> 01:24:29,860
+Yeah right, I have other intentions
+
+363
+01:24:29,860 --> 01:24:33,440
+Ah, scoundrel. Drank too much?
+
+364
+01:24:33,440 --> 01:24:35,000
+This fiasco is just what I needed
+
+365
+01:24:35,000 --> 01:24:36,500
+Take this [made-up words]
+
+366
+01:24:36,500 --> 01:24:37,800
+Sir don't inconvenience yourserlf.
+
+367
+01:24:37,800 --> 01:24:39,600
+[made-up words] don't want
+
+368
+01:24:39,620 --> 01:24:40,900
+What is this nonsense?
+
+369
+01:24:40,900 --> 01:24:42,900
+Me want, take bottle on head.
+
+370
+01:24:42,900 --> 01:24:45,700
+Please dont; I'll drink.
+
+371
+01:24:46,620 --> 01:24:51,960
+Ah, [made-up words] countryman.
+
+372
+01:24:52,860 --> 01:24:55,460
+When master Sandrina have married,
+
+373
+01:24:55,460 --> 01:24:59,960
+want get drunk, want give [made-up words] in company,
+
+374
+01:24:59,960 --> 01:25:03,160
+want dance and be in joy.
+
+375
+01:25:03,160 --> 01:25:07,000
+What? Your master is to marry Sandrina?
+
+376
+01:25:07,460 --> 01:25:10,520
+Yes, pretty [made-up word]
+
+377
+01:25:11,260 --> 01:25:13,960
+And the wedding is today?
+
+378
+01:25:13,960 --> 01:25:16,920
+[Made-up words]
+
+379
+01:25:28,500 --> 01:25:30,500
+[made-up words] joyfully.
+
+380
+01:25:30,780 --> 01:25:32,780
+That master today marry.
+
+381
+01:25:44,500 --> 01:25:50,000
+You dance, you sing.
+
+382
+01:25:50,000 --> 01:25:55,000
+I want get drunk.
+
+383
+01:25:55,000 --> 01:26:00,000
+[made-up words] countryman.
+
+384
+01:26:09,260 --> 01:26:16,260
+[made-up words] not pay anything.
+
+385
+01:27:15,780 --> 01:27:17,780
+Everything is now clear to me
+
+386
+01:27:18,500 --> 01:27:21,800
+Now I understand Filippo's departure.
+
+387
+01:27:22,580 --> 01:27:24,580
+He has found a better match.
+
+388
+01:27:25,220 --> 01:27:28,520
+And to not appear as a turncoat or crazy,
+
+389
+01:27:28,520 --> 01:27:32,000
+he made up that excuse and harrasses me.
+
+390
+01:27:32,800 --> 01:27:34,800
+But I will set things right.
+
+391
+01:27:36,200 --> 01:27:38,500
+I no longer care about that foolish girl.
+
+392
+01:27:39,000 --> 01:27:45,420
+For me, it's over, but I want to at least tell her bluntly my side of the story.
+
+393
+01:27:45,420 --> 01:27:48,180
+To show her that I can sing as well.
+
+394
+01:27:50,060 --> 01:27:52,540
+I don't care about that gossip.
+
+395
+01:27:52,540 --> 01:27:54,540
+But I don't want to be painted as ridiculous.
+
+396
+01:27:54,820 --> 01:27:56,820
+I want things to proceed orderly.
+
+397
+01:27:57,100 --> 01:27:59,800
+I don't want to be dominated.
+
+398
+01:28:00,500 --> 01:28:06,080
+I'm not worried. There's no real danger in returning to argue with old men
+
+399
+01:28:06,420 --> 01:28:10,240
+But I want to talk. I want to vent.
+
+400
+01:28:10,620 --> 01:28:13,080
+At least I will make him learn how to bargain
+
+401
+01:28:14,580 --> 01:28:16,580
+Gentleman
+
+402
+01:28:16,880 --> 01:28:18,300
+Most Illustrious
+
+403
+01:28:18,300 --> 01:28:19,500
+What are you doing?
+
+404
+01:28:19,500 --> 01:28:20,500
+Nothing, sir.
+
+405
+01:28:20,500 --> 01:28:24,000
+What do you mean nothing? What do you seek from that house?
+
+406
+01:28:24,380 --> 01:28:26,380
+I was going to speak a word to Filippo.
+
+407
+01:28:27,180 --> 01:28:28,320
+Do you know him?
+
+408
+01:28:28,320 --> 01:28:30,320
+Of course.
+
+409
+01:28:30,320 --> 01:28:31,900
+And me?
+
+410
+01:28:31,900 --> 01:28:34,000
+I don't believe I've ever seen you before.
+
+411
+01:28:35,340 --> 01:28:40,500
+Listen here, you clod, and you will know.
+
+412
+01:28:42,000 --> 01:28:45,840
+I am the Marquis of Ripafratta,
+
+413
+01:28:45,840 --> 01:28:50,000
+who has fiefs, and marquisates, baronies, and principalities,
+
+414
+01:28:50,580 --> 01:28:52,580
+and who, by the hundreds in nobility,
+
+415
+01:28:52,980 --> 01:28:56,500
+counts the quarters and measures them by the bushel.
+
+416
+01:28:56,500 --> 01:28:58,200
+Ah, I believe it, Most Illustrious One.
+
+417
+01:28:58,200 --> 01:28:59,100
+That's not all.
+
+418
+01:28:59,100 --> 01:29:05,550
+Know that in my service I have pages, and I have knights, lackys, stable boys, and black capes,
+
+419
+01:29:05,550 --> 01:29:09,000
+and a world full of beasts and persons,
+
+420
+01:29:09,000 --> 01:29:14,320
+And that if you ever dare approach this door again...
+
+421
+01:29:15,400 --> 01:29:18,760
+I will have you beaten to death under a cane
+
+422
+01:29:19,100 --> 01:29:21,000
+Ah Sir, please don't inconvenience yourself!
+
+423
+01:29:21,000 --> 01:29:22,000
+Did you understand?
+
+424
+01:29:22,000 --> 01:29:23,360
+Ah, Most Illustrious, yes.
+
+425
+01:29:23,360 --> 01:29:24,720
+Watch your back
+
+426
+01:29:24,720 --> 01:29:26,720
+Undoubtedly
+
+427
+01:29:27,900 --> 01:29:31,200
+But know that Filippo dealt me a nasty slight.
+
+428
+01:29:31,200 --> 01:29:33,200
+What then?
+
+429
+01:29:33,200 --> 01:29:38,180
+Last night, just last night, he promised me Sandrina's hand
+
+430
+01:29:38,550 --> 01:29:42,440
+I came this morning to marry her as agreed,
+
+431
+01:29:42,440 --> 01:29:45,000
+And he chased me away, like a whipped dog
+
+432
+01:29:45,000 --> 01:29:48,500
+Ah, ah, you make me laugh
+
+433
+01:29:48,500 --> 01:29:51,500
+Eh, I know that Sandrina is getting married to you today
+
+434
+01:29:51,800 --> 01:29:54,480
+But I'd like to get even with him
+
+435
+01:29:54,700 --> 01:29:55,500
+With whom?
+
+436
+01:29:55,500 --> 01:29:56,500
+With that old man
+
+437
+01:29:58,540 --> 01:30:02,680
+And you think our marriage is all settled?
+
+438
+01:30:03,000 --> 01:30:05,100
+Oh, unfortunately, I know
+
+439
+01:30:05,100 --> 01:30:17,000
+Poor fool. Do you think I'd degrade my many titles, and such lofty and supreme nobility, to marry a mere peasant?
+
+440
+01:30:17,100 --> 01:30:19,000
+But a certain German servant of yours...
+
+441
+01:30:19,000 --> 01:30:21,000
+He believes it, and so does Filippo
+
+442
+01:30:22,300 --> 01:30:33,300
+In fact, for Sandrina I do feel love, so to give her great honor, I'll marry her to my kitchen boy
+
+443
+01:30:34,000 --> 01:30:38,040
+When drafting the contract, the names will be changed
+
+444
+01:30:38,040 --> 01:30:41,960
+And one of my servants will step in for the marriage
+
+445
+01:30:41,960 --> 01:30:45,700
+And she will be a maid at my service
+
+446
+01:30:46,740 --> 01:30:50,900
+Oh, wonderful! But once Filippo finds out, what will he say?
+
+447
+01:30:50,900 --> 01:30:52,560
+What do you want him to say?
+
+448
+01:30:52,560 --> 01:31:00,560
+Sandrina agrees, and once the contract is signed, there's no remedy, and what's done is done
+
+449
+01:31:01,300 --> 01:31:02,560
+He's going to look so foolish
+
+450
+01:31:03,460 --> 01:31:07,480
+Oh, how much I'd pay to be present at this wedding!
+
+451
+01:31:07,900 --> 01:31:11,600
+Come, you can serve as a witness
+
+452
+01:31:11,600 --> 01:31:14,500
+Ah, please do it, sir, for pity's sake!
+
+453
+01:31:14,500 --> 01:31:15,800
+Where do you live?
+
+454
+01:31:15,800 --> 01:31:17,000
+Over there
+
+455
+01:31:17,000 --> 01:31:19,000
+Go there and wait.
+
+456
+01:31:19,420 --> 01:31:23,000
+I'll send a servant to notify you
+
+457
+01:31:23,300 --> 01:31:25,380
+I'll go
+
+458
+01:31:35,820 --> 01:31:44,960
+Oh, what delight!
+
+459
+01:31:44,960 --> 01:32:11,000
+If I get to see this old man foaming at the mouth, raging, fuming...
+
+460
+01:32:11,460 --> 01:32:19,520
+The marchioness, the cook, when it's finally revealed...
+
+461
+01:32:20,000 --> 01:32:25,520
+What yelling, that ashen face
+
+462
+01:32:25,520 --> 01:32:30,000
+What will that old wizard do?
+
+463
+01:32:30,540 --> 01:32:52,000
+I believe I'll die of laughter, that I'll burst
+
+464
+01:38:21,500 --> 01:38:25,240
+Let's spread out this table cloth here
+
+465
+01:38:25,240 --> 01:38:30,840
+Here, a chair. Here another. A stool. One more here
+
+466
+01:38:31,180 --> 01:38:33,320
+Alright
+
+467
+01:38:33,660 --> 01:38:39,800
+Oh my dear, you were born with a silver spoon in your mouth
+
+468
+01:38:39,800 --> 01:38:41,800
+Indeed, a great fortune!
+
+469
+01:38:41,800 --> 01:38:47,100
+Oh silly girl. Look at you! You're about to become a great lady
+
+470
+01:38:47,100 --> 01:38:51,100
+And lose the habit of working and staying healthy
+
+471
+01:38:51,100 --> 01:38:55,100
+Always traveling by carriage or by palanquin
+
+472
+01:38:55,100 --> 01:38:59,700
+When one has such good legs, it would feel like being in the pillory
+
+473
+01:39:00,860 --> 01:39:04,460
+Always dress in fine cloth and velvet
+
+474
+01:39:04,460 --> 01:39:06,460
+And perhaps suffer more the cold
+
+475
+01:39:07,000 --> 01:39:10,900
+Have the pleasure of always wearing a pannier
+
+476
+01:39:10,900 --> 01:39:17,440
+Oh surely, the joy isn't small of banging one's shins in that contraption
+
+477
+01:39:17,440 --> 01:39:22,000
+Have many persons at your service
+
+478
+01:39:22,000 --> 01:39:26,200
+And let the public know all one's private business
+
+479
+01:39:26,200 --> 01:39:32,000
+Have not just a meal on the table every day - but a feast
+
+480
+01:39:32,200 --> 01:39:37,800
+A great invention, intended to erase one's appetite
+
+645
+01:39:37,800 --> 01:39:40,900
+Shut it silly girl, or else I'll hit you.
+
+646
+01:39:42,560 --> 01:39:46,800
+But how do you expect me to adapt to becoming a great lady?
+
+647
+01:39:46,800 --> 01:39:53,960
+What? Do you believe you are the first? Oh my daughter, when fortune provides the rest,
+
+648
+01:39:53,960 --> 01:39:58,000
+arrogance and folly make their nest
+
+649
+01:39:58,500 --> 01:40:00,000
+But hush. I hear people.
+
+650
+01:40:00,980 --> 01:40:07,320
+Might it be the Marquis returning with the notary to draft the contract?
+
+651
+01:40:07,620 --> 01:40:12,600
+Very soon, you'll see what a change of clothes can mean.
+
+652
+01:40:12,600 --> 01:40:20,240
+Oh no! Give me simple bread and onions, and my dear Nanni
+
+653
+01:40:52,860 --> 01:40:59,440
+Pomp is a great deception.
+
+654
+01:41:00,260 --> 01:41:17,920
+Per un'anima che disprezza il fasto, l'onor, e la ricchezza
+For a soul that scorns ostentation, honor, and wealth.
+
+655
+01:41:18,420 --> 01:42:14,840
+I seek not, and I do not desire,
+but the peace of my heart.
+
+656
+01:42:27,880 --> 01:42:44,000
+I seek not, and I do not desire,
+but the peace of my heart.
+
+657
+01:44:05,820 --> 01:44:09,090
+At your most illustrious service.
+
+658
+01:44:09,980 --> 01:44:12,000
+To whom do you speak?
+
+659
+01:44:12,000 --> 01:44:14,000
+With you, don't you see?
+
+660
+01:44:14,980 --> 01:44:20,000
+My master has sent me here with the notary
+
+661
+01:44:20,580 --> 01:44:24,320
+to draft his marriage contract.
+
+662
+01:44:25,000 --> 01:44:29,320
+And he told me to bring a witness.
+
+663
+01:44:30,300 --> 01:44:32,620
+Oh wonderful, how delightful!
+
+664
+01:44:33,500 --> 01:44:35,520
+And the Marquis?
+
+665
+01:44:35,700 --> 01:44:38,240
+Shouldn't he be present for this?
+
+666
+01:44:41,060 --> 01:44:45,700
+He will come to sign the contract.
+
+667
+01:44:45,700 --> 01:45:00,000
+He has now gone to make arrangements for the departure, the dresses for the bride, the ceremonial carriages, and everything besides
+
+668
+01:45:00,800 --> 01:45:05,000
+Ah, my dear daughter, what great fortune is this?
+
+669
+01:45:05,060 --> 01:45:14,320
+Indeed, Mr. Notary, I would suggest you begin to write.
+
+670
+01:45:14,740 --> 01:45:16,740
+I'm ready.
+
+671
+01:45:51,580 --> 01:46:10,760
+In the year 1700, with a public instrument, those present and accepting, willing and consenting,
+
+672
+01:46:11,500 --> 01:46:16,280
+the following are to be wed
+
+673
+01:46:20,460 --> 01:46:22,460
+Who knows the names?
+
+674
+01:46:23,020 --> 01:46:28,000
+The daughter's name is Sandra of Mugnone
+
+675
+01:46:33,000 --> 01:46:35,140
+And the master's name?
+
+676
+01:46:35,540 --> 01:46:37,540
+The servant will tell you
+
+677
+01:46:38,000 --> 01:46:40,260
+He's a Count, and he's a Baron.
+
+678
+01:46:42,620 --> 01:46:45,820
+He's a  Prince, and he's a Marquis
+
+679
+01:46:47,700 --> 01:46:58,320
+We shall soon see
+
+680
+01:47:05,500 --> 01:47:07,500
+What is the dowry?
+
+681
+01:47:08,500 --> 01:47:21,500
+This is a poor girl, who has nothing and is marrying for charity
+
+682
+01:47:21,540 --> 01:47:23,540
+Nothing as a dowry
+
+683
+01:47:24,400 --> 01:47:26,100
+nor as a trousseau
+
+684
+01:47:27,220 --> 01:47:33,620
+So I believe
+So it is known
+
+685
+01:47:34,700 --> 01:47:39,480
+Così promettono, così si sposano
+Thusly they vow, thusly they wed
+686
+01:47:39,480 --> 01:47:44,400
+not constraining and obligating themselves
+
+687
+01:47:44,700 --> 01:47:49,050
+This will suffice
+
+688
+01:47:49,860 --> 01:47:51,860
+Let them sign
+
+689
+01:47:51,980 --> 01:47:53,980
+Where?
+
+690
+01:47:55,200 --> 01:47:59,480
+Right here the witnesses
+
+691
+01:47:59,540 --> 01:48:03,880
+Here they are
+
+692
+01:48:04,580 --> 01:48:06,580
+Where is the Marquis?
+
+693
+01:48:07,060 --> 01:48:09,060
+Where is the groom?
+
+694
+01:48:09,380 --> 01:48:18,920
+He's arriving now
+(It makes me laugh in truth)
+
+695
+01:48:19,940 --> 01:48:24,540
+But when is he coming?
+
+696
+01:48:24,540 --> 01:48:28,640
+Here he is
+
+697
+01:48:29,860 --> 01:48:31,860
+This is my Nanni
+
+698
+01:48:31,980 --> 01:48:33,980
+This is Vespina
+
+699
+01:48:34,420 --> 01:48:38,000
+Mi vien da ridere, in verità
+It makes me laugh in truth
+
+700
+01:48:39,260 --> 01:48:42,560
+Che baronata! Che imbroglio è questo?
+What a farce! What is this deception?
+
+701
+01:48:42,940 --> 01:48:48,640
+Thus infidelity is punished
+
+702
+01:48:49,100 --> 01:48:52,400
+I won't agree to any pact
+I know well what I will do
+
+703
+01:48:52,740 --> 01:48:56,160
+The contract is made and signed, it can no longer be undone
+
+704
+01:48:56,300 --> 01:48:58,040
+You are my wife
+you are my husband
+
+705
+01:48:58,060 --> 01:48:59,640
+This is finished, and, as so, how it goes
+
+706
+01:48:59,900 --> 01:49:03,280
+Mister errant one, mister vagabond, leave here at once
+
+707
+01:49:03,280 --> 01:49:07,640
+Nobody has pity for me in the world
+
+708
+01:49:07,640 --> 01:49:09,640
+What will become of me?
+
+709
+01:49:10,620 --> 01:49:12,300
+Listen, scoundrel
+710
+01:49:12,300 --> 01:49:14,300
+You do me great wrong
+
+711
+01:49:14,420 --> 01:49:16,420
+The wife betrayed
+
+712
+01:49:16,420 --> 01:49:18,040
+A stale lie
+
+713
+01:49:18,040 --> 01:49:19,800
+The children abandoned
+
+714
+01:49:19,800 --> 01:49:21,560
+Inventied slander
+
+715
+01:49:21,560 --> 01:49:25,560
+Listen! Be quiet!
+
+716
+01:49:25,560 --> 01:49:30,480
+Now you will actually see what has happened
+
+717
+01:49:32,100 --> 01:49:40,700
+I pretended to be the old woman who speaks in proverbs
+
+718
+01:49:41,060 --> 01:49:45,160
+The German servant [invented words]
+
+719
+01:49:45,160 --> 01:49:49,600
+Enough, it was you, Vespina, with such an uncouth manner
+
+720
+01:49:49,600 --> 01:49:51,580
+You knew how to trick us
+
+721
+01:49:51,580 --> 01:49:53,580
+Heaven give me patience
+it's is an insolence
+
+722
+01:49:53,580 --> 01:49:57,280
+But what does one do?
+
+723
+01:49:58,300 --> 01:50:03,700
+What's done is done
+
+724
+01:50:10,940 --> 01:50:15,520
+So let us then be cheeful
+
+725
+01:50:15,660 --> 01:50:39,600
+that in a double wedding today at least we will rejoice
+
+726
+01:50:47,980 --> 01:53:34,980
+[Applause]
+
+727
+01:53:34,980 --> 01:53:39,000
+Subtitles by Michael Jurado

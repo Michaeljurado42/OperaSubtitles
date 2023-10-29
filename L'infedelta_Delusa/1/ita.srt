@@ -1298,7 +1298,7 @@ Parla, cos'è fratello?
 325
 00:47:08,780 --> 00:47:11,780
 N: Son rovinato
-S: Come? Perché?
+V: Come? Perché?
 
 326
 00:47:11,780 --> 00:47:16,780
@@ -1499,7 +1499,7 @@ Tanto ci hai da venir.
 
 374
 01:05:20,200 --> 01:05:22,920
-Dite signora in cortesia,
+Dite signor in cortesia,
 
 375
 01:05:22,920 --> 01:05:27,920
@@ -2262,7 +2262,7 @@ Non mi voglio lasciar sopraffar
 
 562
 01:28:00,500 --> 01:28:06,080
-Non mi preme. Non c'è più pericolo ch'io con vecchie ritorni a impicciarmi
+Non mi preme. Non c'è più pericolo ch'io con vecchi ritorni a impicciarmi
 
 563
 01:28:06,420 --> 01:28:10,240
