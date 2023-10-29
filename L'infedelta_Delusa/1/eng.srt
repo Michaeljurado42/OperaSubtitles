@@ -2203,6 +2203,7 @@ What will become of me?
 709
 01:49:10,620 --> 01:49:12,300
 Listen, scoundrel
+
 710
 01:49:12,300 --> 01:49:14,300
 You do me great wrong
@@ -2221,7 +2222,7 @@ The children abandoned
 
 714
 01:49:19,800 --> 01:49:21,560
-Inventied slander
+Invented slander
 
 715
 01:49:21,560 --> 01:49:25,560
