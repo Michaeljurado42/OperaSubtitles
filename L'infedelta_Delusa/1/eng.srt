@@ -1206,7 +1206,6 @@ that forces me to limp
 
 300
 01:16:10,220 --> 01:16:11,900
-Che ne dite ?
 What do you think?
 
 301
@@ -1292,7 +1291,6 @@ Hey, anyone home?
 
 321
 01:17:35,800 --> 01:17:37,550
-Chi è ?
 Who is it?
 
 322
@@ -1302,7 +1300,7 @@ Open up, don't you recognize me?
 
 323
 01:17:42,700 --> 01:17:44,940
-Figures, were you deaf? [REVISIT]
+Goodness, were you deaf?
 
 324
 01:17:45,900 --> 01:17:47,900
@@ -1973,7 +1971,6 @@ Pomp is a great deception
 
 654
 01:41:00,260 --> 01:41:17,920
-Per un'anima che disprezza il fasto, l'onor, e la ricchezza
 For a soul that scorns ostentation, honor, and wealth
 
 655
@@ -2101,8 +2098,8 @@ So it is known
 
 685
 01:47:34,700 --> 01:47:39,480
-Così promettono, così si sposano
 Thusly they vow, thusly they wed
+
 686
 01:47:39,480 --> 01:47:44,400
 not constraining and obligating themselves
@@ -2158,12 +2155,10 @@ This is Vespina
 
 699
 01:48:34,420 --> 01:48:38,000
-Mi vien da ridere, in verità
 It makes me laugh in truth
 
 700
 01:48:39,260 --> 01:48:42,560
-Che baronata! Che imbroglio è questo?
 What a farce! What is this deception?
 
 701
