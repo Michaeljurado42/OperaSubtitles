@@ -776,7 +776,7 @@ Benedetto sia colui che l’inventò!
 00:32:38,860 --> 00:32:47,880
 Oh, ve’ la differenza che v’è tra
 il bianco di Madama Celia e questo
-me die la cameriera della Marchesa Impiastro.
+me die la cameriera della Marchesa Impiastro
 
 195
 00:32:47,880 --> 00:32:53,720
@@ -863,7 +863,7 @@ Diamanti? Oh ben, chi è lì fuori?
 
 215
 00:34:49,740 --> 00:34:51,440
-Figlia, è Don Ettore.
+Figlia, è Don Ettore
 
 216
 00:34:51,440 --> 00:34:52,650
@@ -871,7 +871,7 @@ Don Ettore?
 
 217
 00:34:52,650 --> 00:34:54,720
-Signora, servo suo.
+Signora, servo suo
 
 218
 00:34:54,720 --> 00:34:58,700
@@ -903,7 +903,7 @@ Ma se mai se n'accorge?
 
 225
 00:35:21,800 --> 00:35:25,880
-Ella m'ama, io gli el dico, e si sta zitta.
+Ella m'ama, io gli el dico, e si sta zitta
 
 226
 00:35:26,020 --> 00:35:31,840
@@ -951,15 +951,15 @@ Qui nessun ci mette piedi; la mia figliola, lei, chi mai la crede?
 
 237
 00:36:16,650 --> 00:36:20,560
-Piano, signora, io non ho detto niente.
+Piano, signora, io non ho detto niente
 
 238
 00:36:20,560 --> 00:36:26,560
-Or senti, Gasparina, starò a pranzo con te questa mattina.
+Or senti, Gasparina, starò a pranzo con te questa mattina
 
 239
 00:36:26,900 --> 00:36:33,800
-Padrone! Ma bisogna trattenersi un pochetto, finché prenda lezione e il Maestro vada via.
+Padrone! Ma bisogna trattenersi un pochetto, finché prenda lezione e il Maestro vada via
 
 240
 00:36:33,800 --> 00:36:37,560
@@ -967,7 +967,7 @@ Ti servo, anima mia, ma il Maestro ch'è?
 
 241
 00:36:37,560 --> 00:36:41,800
-Oh, egli è un uom fantastico, mi sgriderebbe subito.
+Oh, egli è un uom fantastico, mi sgriderebbe subito
 
 242
 00:36:41,800 --> 00:36:46,320
@@ -1008,7 +1008,7 @@ Quant' importa?
 
 251
 00:37:22,780 --> 00:37:25,340
-Tre canne, son quarant' otto lire.
+Tre canne, son quarant' otto lire
 
 252
 00:37:25,340 --> 00:37:26,800
@@ -1020,7 +1020,7 @@ Che so io?
 
 254
 00:37:29,780 --> 00:37:35,040
-Sicuro, se egli s'è posto a un prezzo ragionevole, più non sa dir.
+Sicuro, se egli s'è posto a un prezzo ragionevole, più non sa dir
 
 255
 00:37:35,140 --> 00:37:37,500
@@ -1028,7 +1028,7 @@ Facciamo trenta lire!
 
 256
 00:37:37,500 --> 00:37:40,520
-Mia madre l'ha comprata per sessanta.
+Mia madre l'ha comprata per sessanta
 
 257
 00:37:41,060 --> 00:37:44,360
@@ -1057,7 +1057,7 @@ Bel trucco!
 263
 00:37:59,540 --> 00:38:05,320
 Va, va abbasso al caffè! Quand' è partito il Maestro, io
-ti chiamo dal balcone.
+ti chiamo dal balcone
 
 264
 00:38:05,740 --> 00:38:08,740
@@ -1105,7 +1105,7 @@ E spirerai quell’alma?
 
 275
 00:40:30,940 --> 00:40:34,440
-E chiuderai quei lumi, 
+E chiuderai quei lumi,
 
 276
 00:40:40,180 --> 00:40:47,720
@@ -1113,7 +1113,7 @@ quei dolci lumi?
 
 277
 00:40:52,900 --> 00:40:54,480
-Ite al tiranno! 
+Ite al tiranno!
 
 278
 00:41:01,060 --> 00:41:05,480
@@ -1201,7 +1201,7 @@ Soffritela, Maestro. La sapete!
 
 299
 00:47:03,380 --> 00:47:10,960
-E chiuderai quei lumi, 
+E chiuderai quei lumi,
 
 300
 00:47:17,460 --> 00:47:37,720
@@ -1217,7 +1217,7 @@ Dolci lumi tuoi
 
 303
 00:47:54,420 --> 00:47:56,000
-"Tuoi" non vi sta.
+"Tuoi" non vi sta
 
 304
 00:47:56,100 --> 00:47:57,420
@@ -1245,7 +1245,7 @@ Dammi la chiave! "E chiuderai quel alma,
 
 310
 00:48:16,280 --> 00:48:19,280
- E spirerai quei lumi?"
+E spirerai quei lumi?"
 
 311
 00:48:19,820 --> 00:48:21,640
@@ -1293,17 +1293,15 @@ Signor Mastro, che la vuole accecar?
 
 322
 00:48:48,020 --> 00:48:52,600
-“Chiuder i lumi” ha da far l'azion di serrar l'occhi.
+“Chiuder i lumi” ha da far l'azion di serrar l'occhi
 
 323
 00:48:54,260 --> 00:48:57,000
 Che gran suggezion questa tua madre!
 
-
-
 324
 00:48:57,000 --> 00:49:01,560
-Ogni cantante ha questa suggezione.
+Ogni cantante ha questa suggezione
 
 325
 00:49:02,340 --> 00:49:05,840
@@ -1311,7 +1309,7 @@ Ogni cantante ha questa soggezione
 
 326
 00:49:06,340 --> 00:49:10,680
-(Così a credere diamo a chi è babbione
+(Così a credere diamo a chi è babbione)
 
 327
 00:49:12,740 --> 00:49:16,260
@@ -1331,7 +1329,7 @@ Il fistol se la mangi! Sempre con questa gnora!
 
 331
 00:49:30,780 --> 00:49:34,000
-Io vo' sapere, se tu tieni altri in core. 
+Io vo' sapere, se tu tieni altri in core
 
 332
 00:49:34,000 --> 00:49:35,900
@@ -1383,11 +1381,11 @@ Vostra scolara!
 
 344
 00:50:08,200 --> 00:50:11,280
-Hai vinto già il maestro, figlia cara.
+Hai vinto già il maestro, figlia cara
 
 345
 00:50:15,200 --> 00:50:18,480
-Via, partiamo, ch'è tardi.
+Via, partiamo, ch'è tardi
 
 346
 00:50:18,480 --> 00:50:19,500
@@ -1403,7 +1401,7 @@ Che povero merlotto!
 
 349
 00:50:33,080 --> 00:50:36,160
-Ma tu il farai stancare con tante stitichezze.
+Ma tu il farai stancare con tante stitichezze
 
 350
 00:50:36,160 --> 00:50:42,160
@@ -1423,8 +1421,8 @@ Qui certo l'ho lasciata
 
 354
 00:50:54,800 --> 00:50:58,560
-Il Maestro è partito. 
- Venga! Che scimunito!
+Il Maestro è partito
+Venga! Che scimunito!
 
 355
 00:50:58,560 --> 00:51:02,720
@@ -1432,7 +1430,7 @@ S'ha rotto il collo, sì. Non l'hai veduto?
 
 356
 00:51:02,720 --> 00:51:06,200
-Sei orbo. Presto, è ora già di pranzo.
+Sei orbo. Presto, è ora già di pranzo
 
 357
 00:51:06,400 --> 00:51:08,320
@@ -1440,13 +1438,13 @@ Diavolo, che ascolto!
 
 358
 00:51:08,750 --> 00:51:14,620
-Via, verrotti a incontrare per le scale.  
- Andiam, andiamo, povero animale!
+Via, verrotti a incontrare per le scale
+Andiam, andiamo, povero animale!
 
 359
 00:51:16,580 --> 00:51:22,000
-Oh, rabbia! Oh gelosia!  
- Va, va senza rossore;
+Oh, rabbia! Oh gelosia!
+Va, va senza rossore;
 
 360
 00:51:22,300 --> 00:51:27,990
@@ -1456,7 +1454,7 @@ Possa perder l'udito e la battuta,
 
 361
 00:51:27,990 --> 00:51:30,440
-Se di te non mi vendico.
+Se di te non mi vendico
 
 362
 00:51:31,780 --> 00:51:36,680
@@ -1469,6 +1467,740 @@ Dopo ch'ho speso tanto, datale casa e mobili, la musica insegnatale,
 364
 00:51:44,400 --> 00:51:52,800
 Così m'inganna? Ah, donne senza fede!
-
 Appiccato e squartato chi vi crede!
+
+365
+00:51:54,900 --> 00:51:57,200
+Vedi, fatti capace!
+
+366
+00:51:57,680 --> 00:52:01,150
+Io sempre sono stato a far la spia, né l'ho veduto
+
+367
+00:52:01,150 --> 00:52:02,550
+Eh via!
+
+368
+00:52:02,550 --> 00:52:05,960
+Mi è toccato a dar luogo al signor Maestro
+
+369
+00:52:06,340 --> 00:52:11,720
+Or io do luogo a voi; Ah, così sono le vicende umane
+
+370
+00:52:11,900 --> 00:52:13,680
+Che luogo? Tu sei matto!
+
+371
+00:52:13,680 --> 00:52:17,720
+Ma ella perché ha fatto fingermi venditor di queste tele,
+
+372
+00:52:17,720 --> 00:52:20,560
+Facendone pagar dal Maestro il prezzo?
+
+373
+00:52:20,560 --> 00:52:23,360
+Segno che vi ama, e voi ...
+
+374
+00:52:23,360 --> 00:52:26,960
+Ah, sciocco! Egli mi deve dar quindici zecchini;
+
+375
+00:52:27,180 --> 00:52:32,560
+Non avea come vestirsi, ond'io procuro di ricuoterli alla meglio
+
+376
+00:52:32,560 --> 00:52:39,120
+h falsa, ah finta, falsa più del falsetto istesso!
+
+377
+00:52:41,460 --> 00:52:43,480
+Ma quanto deve ancora?
+
+378
+00:52:43,480 --> 00:52:45,480
+Quattro zecchini
+
+379
+00:52:45,480 --> 00:52:46,920
+Lascialo in mal'ora
+
+380
+00:52:46,920 --> 00:52:49,160
+No, voglio pagare
+
+381
+00:52:49,160 --> 00:52:51,000
+Dica, signora, l'ho a dare?
+
+382
+00:52:51,000 --> 00:52:52,680
+Uh, rovina!
+
+383
+00:52:52,680 --> 00:52:54,320
+Lei che va facendo?
+
+384
+00:52:54,320 --> 00:52:57,080
+Zitto, viso di capra! Prendi,
+
+385
+00:52:57,580 --> 00:52:59,760
+Ecco il denaro!
+
+386
+00:52:59,760 --> 00:53:03,240
+Presto in tavola, che siete arrivati
+
+387
+00:53:03,240 --> 00:53:05,920
+Ah, ch'è venuto il precipizio mio!
+
+388
+00:53:06,000 --> 00:53:07,720
+Signor Maestro!
+
+389
+00:53:07,720 --> 00:53:10,560
+Signor corno, addio!
+
+390
+00:53:24,420 --> 00:53:32,720
+Scellerata, mancatrice, traditrice
+
+391
+00:53:32,720 --> 00:53:34,360
+Non gridate!
+
+392
+00:53:34,360 --> 00:53:36,040
+Per pietate!
+
+393
+00:53:36,040 --> 00:53:40,560
+Signor mio, lei l'uccida che poch'è
+
+394
+00:53:40,560 --> 00:53:44,320
+Vo' gridar dalli balconi: Queste donne, miei padroni,
+
+395
+00:53:44,320 --> 00:53:51,720
+Sono false e assassine, basta dir, son canterine, imparatelo da me!
+
+396
+00:53:51,720 --> 00:53:53,320
+Ch'accidente!
+
+397
+00:53:53,320 --> 00:53:55,400
+Che sventura!
+
+398
+00:53:55,700 --> 00:54:01,960
+Per l'affanno e la paura io mi reggo appena in piè
+
+399
+00:55:22,980 --> 00:55:29,300
+Ci buttiamo a' piedi vostri
+
+400
+00:55:29,300 --> 00:55:36,320
+Lungi, lungi, gente ingrata, castigata hai da restar
+
+401
+00:55:36,620 --> 00:55:43,800
+La mia tela, i miei diamanti,
+Zi! Non servon questi pianti,
+
+402
+00:55:44,000 --> 00:55:47,080
+Or ti faccio carcerar
+
+403
+01:01:15,000 --> 01:01:17,480
+Ah, rovinate noi!
+
+404
+01:01:17,480 --> 01:01:18,880
+Che si farà?
+
+405
+01:01:19,220 --> 01:01:23,880
+Per fare a modo tuo, io mi trovo ridotta in questo stato
+
+406
+01:01:24,180 --> 01:01:27,960
+Se mi avessi ascoltato, non corressi rischio
+
+407
+01:01:27,960 --> 01:01:31,160
+Ti fossi rotto il collo, quando venisti in casa,
+
+408
+01:01:32,000 --> 01:01:34,160
+Ruffianaccia cenciosa!
+
+409
+01:01:34,740 --> 01:01:38,960
+Sì signora cosa, non farmi parlare
+
+410
+01:01:38,960 --> 01:01:42,480
+Parla, parla, che possa tu scoppiare!
+
+411
+01:02:27,620 --> 01:02:44,360
+Signor mio, l'ufficio suo
+lei lo faccia con rigor!
+
+412
+01:02:46,050 --> 01:02:48,840
+Questa casa è roba mia,
+
+413
+01:02:50,000 --> 01:03:00,120
+Queste donne vadan via;
+Lei si sbrighi, mio signor!
+
+414
+01:05:07,620 --> 01:05:10,500
+Che mai vuol dir tal cosa?
+
+415
+01:05:11,500 --> 01:05:13,440
+Signora virtuosa,
+
+416
+01:05:13,440 --> 01:05:17,040
+Vuol dir, che lei si sfratti di questa casa
+
+417
+01:05:17,340 --> 01:05:19,600
+Ch'è mia con tutto il mobile,
+
+418
+01:05:19,600 --> 01:05:22,840
+Che mi soddisfi delle mie mesate
+
+419
+01:05:23,100 --> 01:05:28,800
+E poi sen' vada in pace, lungi da me, dove le pare e piace
+
+420
+01:05:29,040 --> 01:05:30,960
+S'è imbrogliato il negozio,
+
+421
+01:05:30,960 --> 01:05:32,700
+Bisogna alzar i ponti;
+
+422
+01:05:32,700 --> 01:05:36,080
+Or via, prendiamo la cosa nostra e andiamo!
+
+423
+01:05:37,180 --> 01:05:39,500
+Carcerate costei, ch'è la sua madre
+
+424
+01:05:39,500 --> 01:05:41,440
+A me? Non la conosco
+
+425
+01:05:41,440 --> 01:05:45,480
+Parlatene con lei, uccidetela pur, signori miei!
+
+426
+01:05:47,500 --> 01:05:49,360
+Sfratta, sfratta, via presto!
+
+427
+01:05:49,360 --> 01:05:51,390
+Piano, che modo è questo?
+
+428
+01:05:51,390 --> 01:05:54,840
+Lasciate pria, ch'affitti un'altra casa
+
+429
+01:05:54,840 --> 01:06:00,560
+Che casa? Sior bargello, se non va via col buon, sa già che fare
+
+430
+01:06:01,420 --> 01:06:03,760
+Piano, sbirraglia indegna;
+
+431
+01:06:03,760 --> 01:06:07,920
+Non mettete le mani sopra una virtuosa!
+
+432
+01:06:07,920 --> 01:06:09,840
+Virtuosa, di che?
+
+433
+01:06:09,840 --> 01:06:11,920
+Strascinatela via!
+
+434
+01:06:12,340 --> 01:06:15,520
+Ah Don Pelagio caro! <Vada, vada!>
+
+435
+01:06:15,520 --> 01:06:16,300
+Pietà!
+
+436
+01:06:16,300 --> 01:06:17,240
+Son sordo
+
+437
+01:06:17,240 --> 01:06:19,560
+Oh Dio!
+
+438
+01:06:20,780 --> 01:06:37,920
+Deh, ti muova pietade il pianto mio!
+
+439
+01:06:58,740 --> 01:07:01,850
+Non v'è chi mi aiuta,
+
+440
+01:07:02,100 --> 01:07:10,960
+Non v'è chi mi sente
+
+441
+01:07:17,100 --> 01:07:23,760
+Afflitta e dolente,
+più voce non ho
+
+442
+01:09:47,020 --> 01:09:50,120
+Misera! Dove andrà?
+
+443
+01:09:50,820 --> 01:09:53,880
+Se si fermava un altro pochettino,
+
+444
+01:09:53,880 --> 01:09:57,240
+M'avrebbe già veduto uscir le lacrime
+
+445
+01:09:57,980 --> 01:10:01,440
+Veramente il gastigo è troppo rigoroso;
+
+446
+01:10:03,940 --> 01:10:07,160
+Ma che merita peggio quell'ingrata?
+
+447
+01:10:07,160 --> 01:10:11,400
+La voglio veder morta disperata!
+
+448
+01:10:12,700 --> 01:10:16,000
+Via, facchini, portate in casa mia codeste robe!
+
+449
+01:10:16,940 --> 01:10:21,160
+Piano, chè v'è della mia roba ch'ho restata
+
+450
+01:10:21,160 --> 01:10:23,160
+E cosa?
+
+451
+01:10:23,160 --> 01:10:25,880
+Un bussolotto ripieno di belletto,
+
+452
+01:10:25,880 --> 01:10:29,880
+Un pettine e uno specchio al naturale
+
+453
+01:10:31,060 --> 01:10:33,600
+Lasciato avevi tutto il capitale
+
+454
+01:10:35,140 --> 01:10:37,600
+L'hai trovato?
+
+455
+01:10:37,600 --> 01:10:39,320
+Ecco qui
+
+456
+01:10:49,700 --> 01:10:50,620
+Dove ne vai?
+
+457
+01:10:51,060 --> 01:10:53,820
+Disperata a buttarmi in qualche pozzo
+
+458
+01:10:53,820 --> 01:10:56,360
+(Misera! Più non posso.)
+
+459
+01:10:57,100 --> 01:11:01,120
+Conosco, che da voi non merito ne' pure esser guardata,
+
+460
+01:11:01,580 --> 01:11:04,150
+Confesso il fallo mio,
+
+461
+01:11:04,150 --> 01:11:08,280
+Però vi chieggo prima umilmente perdon,
+
+462
+01:11:09,250 --> 01:11:11,150
+Poi parto, addio!
+
+463
+01:11:11,150 --> 01:11:15,600
+(Or crepo.) Senti, figlia,io ti perdono;
+
+464
+01:11:15,600 --> 01:11:17,480
+Le mesate ti dono,
+
+465
+01:11:17,480 --> 01:11:21,000
+E acciocchè non si dica ch'io sia tanto crudel,
+
+466
+01:11:21,000 --> 01:11:25,440
+restati in casa, finché trovi altro comodo
+
+467
+01:11:26,500 --> 01:11:30,120
+Oh ciel! Quest'è un favore da me non meritato;
+
+468
+01:11:30,120 --> 01:11:32,640
+Oh quanto siete bono!
+
+469
+01:11:32,640 --> 01:11:35,480
+Lasciate ch'io vi baci almen la mano
+
+470
+01:11:35,860 --> 01:11:38,040
+No, no! (Via, ch'ho da far?)
+
+471
+01:11:38,040 --> 01:11:41,800
+Ferma, facchino, Lasciale il letto ancor;
+
+472
+01:11:42,020 --> 01:11:45,240
+Campita sia oggi la grazia mia!
+
+473
+01:11:45,240 --> 01:11:50,560
+Che ascolto! Ah, un altro bacio vo' impremere su quella mano
+
+474
+01:11:52,620 --> 01:11:56,480
+Elà, facchini, lascio il cembalo ancor;
+
+475
+01:11:56,620 --> 01:12:01,760
+Studia e attendi! Vedi quanto son bono,
+
+476
+01:12:02,100 --> 01:12:14,640
+Che mi scordo de' tanti falli tuoi: Ma la pietade è propria degli eroi
+
+477
+01:12:15,700 --> 01:12:22,800
+Lo veggo, e son confusa; Ah, un'altra volta lasciatemi baciar la mano!
+
+478
+01:12:22,800 --> 01:12:27,120
+Facchini, piano, piano; asciatele ogni cosa!
+
+479
+01:12:27,120 --> 01:12:33,000
+Che alma generosa! Ah, mi voglio buttar a' piedi vostri
+
+480
+01:12:33,220 --> 01:12:35,100
+E non partirne più
+
+481
+01:12:35,100 --> 01:12:37,080
+Piano, che fai?
+
+482
+01:12:38,100 --> 01:12:43,280
+Facchini, in casa andate e tutte le mie robe qua portate!
+
+483
+01:12:46,100 --> 01:12:50,300
+Ma oimé, sento mancarmi
+
+484
+01:12:50,300 --> 01:12:51,480
+Cos'è?
+
+485
+01:12:51,480 --> 01:12:58,120
+La gran paura, la collera, Il digiuno...
+
+486
+01:13:19,620 --> 01:13:25,200
+Oh stelle, aiuto!
+
+487
+01:13:31,740 --> 01:13:35,200
+Gnora! Don Ettore!
+
+488
+01:13:41,420 --> 01:13:43,960
+Ah, poverina,
+
+489
+01:13:45,080 --> 01:13:46,960
+Com'è fredda!
+
+490
+01:13:53,740 --> 01:13:59,040
+Avessi la caraffina di melissa sopra, per farla rivenire...
+
+491
+01:14:16,900 --> 01:14:19,240
+lo sono chiamato qui
+
+492
+01:14:19,240 --> 01:14:22,600
+Chiamata sono pur io
+
+493
+01:14:32,020 --> 01:14:34,320
+Oibò, non me la trovo
+
+494
+01:14:44,380 --> 01:14:46,280
+Ma cosa vedo?
+
+495
+01:14:51,550 --> 01:14:55,360
+Ah, mia figlia svenuta!
+
+496
+01:15:01,250 --> 01:15:09,080
+O povera me, o povera me!
+
+497
+01:15:20,500 --> 01:15:21,760
+Prendi qua!
+
+498
+01:15:22,120 --> 01:15:23,480
+Prendi là!
+
+499
+01:15:24,540 --> 01:15:26,320
+Piano! <Adagio!>
+
+500
+01:15:27,340 --> 01:15:29,350
+Oibò, questa è la borsa
+
+501
+01:15:36,020 --> 01:15:40,760
+Che bon odor è quello dei diamanti!
+
+502
+01:15:50,600 --> 01:15:54,960
+Oh buona, ella l'odora poveretta, 
+
+503
+01:15:54,960 --> 01:15:57,240
+Sta fuor di sé
+
+504
+01:16:05,420 --> 01:16:07,720
+Apollonia!
+
+505
+01:16:07,720 --> 01:16:12,480
+(Fingi bene, mia figlia benedetta, L'è del mestier.)
+
+506
+01:16:12,480 --> 01:16:15,160
+ Ah, poverina figlia!
+
+507
+01:16:15,980 --> 01:16:18,480
+Ha un poco di furbetta
+
+508
+01:16:18,500 --> 01:16:21,760
+Via, spirito, mia diletta!
+
+509
+01:16:26,500 --> 01:16:31,480
+Apri pur, mia dea terrestre,
+
+510
+01:16:31,860 --> 01:16:38,040
+L'amorose tue finestre, 
+
+511
+01:16:38,040 --> 01:16:46,080
+ Ch'all'oscuro mi fai star
+
+512
+01:16:46,900 --> 01:16:52,840
+Ah, rischiara quelle ciglia,
+
+513
+01:16:52,840 --> 01:16:59,160
+Guarda intorno, cara figlia,
+
+514
+01:16:59,160 --> 01:17:07,040
+(Non lasciarti mai scappar!)
+
+515
+01:17:07,400 --> 01:17:14,400
+Non l'intendo, sia rossore 
+ O piuttosto un finto amore;
+
+516
+01:17:14,450 --> 01:17:20,160
+Basta, non mi vo' fidar
+
+517
+01:17:29,420 --> 01:17:32,520
+Ah, mi sento ristorata, 
+
+518
+01:17:32,520 --> 01:17:36,040
+Già mi trovo risanata,
+
+519
+01:17:36,960 --> 01:17:44,800
+Pian. Oimè, torn'a mancar
+
+520
+01:17:44,800 --> 01:17:46,680
+Questa è borsa
+
+521
+01:17:46,680 --> 01:17:48,400
+Mi ristora
+
+522
+01:17:48,400 --> 01:17:50,120
+Quest'è gioia
+
+523
+01:17:50,120 --> 01:17:51,920
+Com'odora,
+
+524
+01:17:52,260 --> 01:18:08,720
+mi consola in verità
+
+525
+01:18:15,900 --> 01:18:21,150
+Quest'anello allegra il core per il prezzo, non l'odore;
+
+526
+01:18:21,150 --> 01:18:28,280
+Troppo scaltra è questa qua
+
+527
+01:18:28,750 --> 01:18:40,760
+Mi ristora, mi consola in verità 
+
+528
+01:19:01,180 --> 01:19:02,560
+Mia diletta!
+
+529
+01:19:02,560 --> 01:19:03,720
+Mio diletto!
+
+530
+01:19:03,720 --> 01:19:05,040
+Caro, caro!
+
+531
+01:19:05,040 --> 01:19:06,280
+Cara, cara!
+
+532
+01:19:06,280 --> 01:19:08,760
+Sei bellino, sei bonino, 
+
+533
+01:19:08,760 --> 01:19:11,280
+Mio diletto, caro, caro!
+
+534
+01:19:11,280 --> 01:19:16,280
+Questo anello sta in camino, 
+  La mia borsa via lo voglio regalar
+
+535
+01:19:16,280 --> 01:19:26,280
+Vo' provar il mio destino 
+ Mi preparo a trionfar
+
+536
+01:19:59,260 --> 01:20:01,880
+Mel' donaste?
+
+537
+01:20:03,900 --> 01:20:06,520
+Non mi pento
+
+538
+01:20:08,950 --> 01:20:10,860
+Questo in dono?
+
+539
+01:20:14,060 --> 01:20:19,240
+Tel' presento
+
+540
+01:20:22,380 --> 01:20:26,240
+Viviam noi, evviva il Maestro!
+
+541
+01:20:26,460 --> 01:20:30,280
+Non risplende più disastro
+
+542
+01:20:30,280 --> 01:20:39,760
+Che ci possa sconsolar
+
+543
+01:20:55,700 --> 01:20:59,800
+Sì viviamo tutti quanti,
+
+544
+01:20:59,800 --> 01:21:03,480
+E finiam in lieti canti
+
+545
+01:21:03,480 --> 01:21:13,400
+Per poter allegri star
+
+546
+01:23:54,500 --> 01:24:01,000
+Sottotitoli da Michael Jurado
 
