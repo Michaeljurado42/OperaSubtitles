@@ -925,7 +925,7 @@ Who? What are you saying? At the house of Gasparina Zuffoli?
 
 231
 00:36:11,280 --> 00:36:16,650
-No one steps foot inside here; my daughter, her, who ever would believe it?
+No one steps foot inside here; who do you take my daughter for?
 
 232
 00:36:16,650 --> 00:36:20,560
@@ -949,7 +949,7 @@ Oh, he is an eccentric man, he would scold me right away
 
 237
 00:36:46,320 --> 00:36:48,250
-The girl knows him. Uh, the door, damn it!
+He is an old acquaintance. Uh, the door, damn it!
 
 238
 00:36:48,250 --> 00:36:50,080
@@ -962,7 +962,7 @@ Hide this sword! How will we spin it?
 
 240
 00:36:54,820 --> 00:36:56,480
-Damn, what pain!
+Damnation!
 
 241
 00:37:07,360 --> 00:37:09,920
@@ -1244,7 +1244,7 @@ I did not sleep all night
 
 310
 00:48:33,000 --> 00:48:34,120
-Because of the air?
+Because of the aria?
 
 311
 00:48:34,120 --> 00:48:36,700
@@ -1276,7 +1276,7 @@ What a great burden this mother of yours!
 
 318
 00:48:57,000 --> 00:49:01,560
-Oh, this is the problem; as soon as she realizes that I'm joking, she makes me tremble.
+Oh, this is the problem; as soon as she realizes that I am joking, she makes me tremble.
 
 319
 00:49:02,340 --> 00:49:05,840
@@ -1284,11 +1284,11 @@ Every singer has this burden
 
 320
 00:49:06,340 --> 00:49:10,680
-(So the simpleton would have us believe)
+(So we would have the simpleton believe)
 
 321
 00:49:12,740 --> 00:49:16,260
-Now I want to marry you,
+Well, I want to marry you,
 
 322
 00:49:20,660 --> 00:49:23,660
@@ -1296,11 +1296,11 @@ What do you say? Speak!
 
 323
 00:49:23,800 --> 00:49:25,680
-Talk to the old lady about it!
+Talk to the Old Lady about it!
 
 324
 00:49:25,940 --> 00:49:29,300
-Curse this triviality! Sempre con questa gnora!
+Curse this triviality! Always with the Old Lady!
 
 325
 00:49:30,780 --> 00:49:34,000
@@ -1324,7 +1324,7 @@ Ah, viper!
 
 330
 00:49:44,740 --> 00:49:47,200
-The old lady enters here again
+The Old Lady enters here again
 
 331
 00:49:47,200 --> 00:49:48,500
@@ -1344,7 +1344,7 @@ What fault do I have? Those sudden entrances are difficult
 
 335
 00:49:58,700 --> 00:50:03,720
-It's true; This burden of these entrances, you have to put a stop to it.
+It's true; This burden of these entrances, we must put a stop to it.
 
 336
 00:50:04,000 --> 00:50:06,300
@@ -1380,11 +1380,11 @@ But you're going to wear him out with so much prudery
 
 344
 00:50:36,160 --> 00:50:42,160
-You who are in the trade, leave the burden to the master, understand me?
+You who are in the trade, take heed of my mastery, understand?
 
 345
 00:50:43,000 --> 00:50:47,260
-She speaks the truth. But isn't Don Ettore coming yet?
+You speak the truth. But isn't Don Ettore coming yet?
 
 346
 00:50:47,780 --> 00:50:50,550
@@ -1545,7 +1545,7 @@ Signor cuckold, adieu!
 
 384
 00:53:24,420 --> 00:53:32,720
-Wicked, Deceiver, traitor
+Wicked, deceiver, traitor
 
 385
 00:53:32,720 --> 00:53:34,360
@@ -1663,7 +1663,7 @@ Which is mine, along with all the furniture,
 
 413
 01:05:19,600 --> 01:05:22,840
-That you compensate me for my monthly payments
+That you compensate me for the rent
 
 414
 01:05:23,100 --> 01:05:28,800
@@ -1848,7 +1848,7 @@ Then I'll leave, farewell!
 
 459
 01:11:15,600 --> 01:11:17,480
-I give you the monthly payments,
+I give you the back rent,
 
 460
 01:11:17,480 --> 01:11:21,000
@@ -2049,7 +2049,7 @@ Look around, dear daughter,
 509
 01:17:07,400 --> 01:17:14,520
 I don't understand, be it shame 
- Or rather feigned love;
+Or rather feigned love;
 
 510
 01:17:14,520 --> 01:17:29,420
@@ -2126,12 +2126,12 @@ My dearest, dear!
 528
 01:19:11,280 --> 01:19:16,280
 Don Ettore: This ring is on its way, 
- Don Pelagio: I want to offer away my purse
+Don Pelagio: I want to offer away my purse
 
 529
 01:19:16,280 --> 01:19:26,280
 I want to taste my destiny, 
- I'm prepared to triumph
+I'm prepared to triumph
 
 530
 01:19:59,260 --> 01:20:01,880
@@ -2163,7 +2163,7 @@ That can dismay us
 
 537
 01:20:55,700 --> 01:20:59,800
-If all of us can live
+If all of us can live in peace
 
 538
 01:20:59,800 --> 01:21:03,480
