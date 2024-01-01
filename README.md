@@ -2,6 +2,7 @@
 A source for uploading and correcting subtitles for operas found (legally) on the internet!
 
 Project Page: https://unaterzavia.com/opera/
+
 Related Project: https://github.com/Michaeljurado42/subtitle-increment
 
 # License Information
