@@ -9,4 +9,4 @@ Related Project: https://github.com/Michaeljurado42/subtitle-increment
 Please insure that before you make each subtitle file, you carefully read the copyright and legal information for every production. If the subtitles are up here it either means
 I received explicit permission or have followed the guidlines layed out by the content creators. Please make sure you do the same. 
 
-Also, Please do not reproduce and then modify the subtitles. If you have edits, please submit them via a Pull Request. 
+Also, please do not reproduce and then modify the subtitles. If you have edits, please submit them via a Pull Request and always credit OperaSubtitles when reproducing. That way we can continue to grow this project together!
