@@ -1903,273 +1903,277 @@ I see it, and am confused; Ah, another time let me kiss your hand!
 Porters, slowly, slowly; leave her every thing!
 
 474
-01:12:27,120 --> 01:12:33,000
+01:12:27,120 --> 01:12:32,800
 What a generous soul! Ah, I want to throw myself at your feet
 
 475
-01:12:35,100 --> 01:12:37,080
+01:12:32,800 --> 01:12:34,760
 And never leave again
 
 476
+01:12:34,760 --> 01:12:37,000
+Calm youself, what is this?
+
+477
 01:12:38,100 --> 01:12:43,280
 Porters, go into the house and bring all my things here!
 
-477
+478
 01:12:46,100 --> 01:12:50,300
 But alas, I feel faint
 
-478
+479
 01:12:50,300 --> 01:12:51,480
 What is it?
 
-479
+480
 01:12:51,480 --> 01:12:58,120
 The great fear, the anger, the fasting...
 
-480
+481
 01:13:19,620 --> 01:13:25,200
 Oh heavens, help!
 
-481
+482
 01:13:31,740 --> 01:13:35,200
 Madam! Don Ettore!
 
-482
+483
 01:13:41,420 --> 01:13:43,960
 Ah, poor thing,
 
-483
+484
 01:13:45,080 --> 01:13:46,960
 How cold she is!
 
-484
+485
 01:13:53,740 --> 01:13:59,040
 If only I had the carafe of lemon balm to revive her...
 
-485
+486
 01:14:16,900 --> 01:14:19,240
 I am called here
 
-486
+487
 01:14:19,240 --> 01:14:22,600
 I too am called here
 
-487
+488
 01:14:32,020 --> 01:14:34,320
 Oh dear, I can't find it
 
-488
+489
 01:14:44,380 --> 01:14:46,280
 But what do I see?
 
-489
+490
 01:14:51,550 --> 01:14:55,360
 Ah, my daughter has fainted!
 
-490
+491
 01:15:01,250 --> 01:15:09,080
 Oh poor me, oh poor me!
 
-491
+492
 01:15:20,500 --> 01:15:21,760
 Take this!
 
-492
+493
 01:15:22,120 --> 01:15:23,480
 Take that!
 
-493
+494
 01:15:24,540 --> 01:15:26,320
 Piano! <Adagio!>
 
-494
+495
 01:15:27,340 --> 01:15:29,350
 Oh dear, this is the purse
 
-495
+496
 01:15:36,020 --> 01:15:40,760
 What a good smell these diamonds have!
 
-496
+497
 01:15:50,600 --> 01:15:54,960
 Oh good, she can smell it, poor thing,
 
-497
+498
 01:15:54,960 --> 01:15:57,240
 She's out of her senses
 
-498
+499
 01:16:05,420 --> 01:16:07,720
 Apollonia!
 
-499
+500
 01:16:07,720 --> 01:16:12,480
 (Pretend well, my blessed daughter, It's part of the trade.)
 
-500
+501
 01:16:12,480 --> 01:16:15,160
 Ah, poor daughter!
 
-501
+502
 01:16:15,980 --> 01:16:18,480
 She's a bit of a vixen
 
-502
+503
 01:16:18,500 --> 01:16:21,760
 Come on, show some spirit, my dear!
 
-503
+504
 01:16:26,500 --> 01:16:31,480
 Awaken, my earthly goddess,
 
-504
+505
 01:16:31,860 --> 01:16:38,040
 Your loving windows,
 
-505
+506
 01:16:38,040 --> 01:16:46,080
 which without I am in the dark
 
-506
+507
 01:16:46,900 --> 01:16:52,840
 Ah, brighten those eyes,
 
-507
+508
 01:16:52,840 --> 01:16:59,160
 Look around, dear daughter,
 
-508
+509
 01:16:59,160 --> 01:17:07,040
 (Never let yourself be caught off guard!)
 
-509
+510
 01:17:07,400 --> 01:17:14,520
 I don't understand, be it shame
 Or rather feigned love;
 
-510
+511
 01:17:14,520 --> 01:17:29,420
 Enough, I don't want to trust
 
-511
+512
 01:17:29,420 --> 01:17:32,520
 Ah, I feel restored,
 
-512
+513
 01:17:32,520 --> 01:17:36,040
 I already find myself healed,
 
-513
+514
 01:17:36,960 --> 01:17:44,800
 Gently. Alas, I faint again
 
-514
+515
 01:17:44,800 --> 01:17:46,680
 This is a purse
 
-515
+516
 01:17:46,680 --> 01:17:48,400
 It revives me
 
-516
+517
 01:17:48,400 --> 01:17:50,120
 This is joy
 
-517
+518
 01:17:50,120 --> 01:17:51,920
 What a scent
 
-518
+519
 01:17:52,260 --> 01:18:08,720
 it truly consoles me
 
-519
+520
 01:18:15,900 --> 01:18:21,150
 This ring cheers the heart for its price, not the scent;
 
-520
+521
 01:18:21,150 --> 01:18:28,280
 Too cunning is this one
 
-521
+522
 01:18:28,750 --> 01:18:40,760
 It revives me, it truly consoles me
 
-522
+523
 01:19:01,180 --> 01:19:02,560
 My beloved!
 
-523
+524
 01:19:02,560 --> 01:19:03,720
 My dearest!
 
-524
+525
 01:19:03,720 --> 01:19:05,040
 Dear, dear!
 
-525
+526
 01:19:05,040 --> 01:19:06,280
 Darling, darling!
 
-526
+527
 01:19:06,280 --> 01:19:08,760
 You're sweet, you're nice,
 
-527
+528
 01:19:08,760 --> 01:19:11,280
 My dearest, dear!
 
-528
+529
 01:19:11,280 --> 01:19:16,280
 Don Ettore: This ring is on its way,
 Don Pelagio: I want to offer away my purse
 
-529
+530
 01:19:16,280 --> 01:19:26,280
 I want to taste my destiny,
 I'm prepared to triumph
 
-530
+531
 01:19:59,260 --> 01:20:01,880
 Would you offer it to me?
 
-531
+532
 01:20:03,900 --> 01:20:06,520
 I do not regret it
 
-532
+533
 01:20:08,950 --> 01:20:10,860
 This as a gift?
 
-533
+534
 01:20:14,060 --> 01:20:19,240
 I present it to you
 
-534
+535
 01:20:22,380 --> 01:20:26,240
 Long life to us, long life to the Maestro!
 
-535
+536
 01:20:26,460 --> 01:20:30,280
 He no longer resembles a disaster
 
-536
+537
 01:20:30,280 --> 01:20:39,760
 That can dismay us
 
-537
+538
 01:20:55,700 --> 01:20:59,800
 If all of us can live in peace
 
-538
+539
 01:20:59,800 --> 01:21:03,480
 And join in joyous song
 
-539
+540
 01:21:03,480 --> 01:21:13,400
 We can remain happy together
 
-540
+541
 01:23:54,500 --> 01:24:01,000
 Subtitles by Michael Jurado
 
