@@ -1,12 +1,15 @@
 # OperaSubtitles
 A source for uploading and correcting subtitles for operas found (legally) on the internet!
 
+
+This project is an attempt to spread awareness and educate the public about an unrepresented chapter in Opera's history. 
+
 Project Page: https://unaterzavia.com/opera/
 
 Related Project: https://github.com/Michaeljurado42/subtitle-increment
 
 # License Information
-Please insure that before you make each subtitle file, you carefully read the copyright and legal information regarding every production if available. If the creator of the production did not post the production online thenselves, it might have been posted illegally. 
+Please insure that before you make each subtitle file, you carefully read the copyright and legal information regarding every production if available. If the creator of the production did not post the production online thenselves, it might have been posted illegally.
 
 If the subtitles are up here it either means
 I either received explicit permission, have followed the guidlines layed out by the content creators, or the production is made freely available by the creators themselves pending permission. In short, please be mindful.
