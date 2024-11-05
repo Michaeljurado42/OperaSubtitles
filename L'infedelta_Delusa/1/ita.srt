@@ -1656,7 +1656,7 @@ E savia, e bella, e in tutto il vicinato
 
 413
 01:07:59,260 --> 01:08:04,040
-Se ne faceanle maraviglie tanto ch'era un piacer
+Se ne faceanle maraviglie tanto ch'era un piacer <error>
 
 414
 01:08:05,000 --> 01:08:09,500
@@ -1675,7 +1675,7 @@ dice il proverbio
 E cosa gli è successo?
 
 418
-01:08:21,260 --> 01:08:23,260
+01:08:21,260 --> 01:08:25,400
 Questo Nencio, un di di carneval venne a Peregola
 
 419
@@ -1984,7 +1984,7 @@ Non venirmi più davanti vera schiuma dei furfanti
 
 493
 01:19:18,940 --> 01:19:29,160
-Pien di vizi e di peccati 
+Pien di vizi e di peccati
 
 494
 01:19:29,160 --> 01:19:48,120
