@@ -47,11 +47,11 @@ In un vaso di mél tuffato è il Core.
 
 12
 00:08:07,420 --> 00:08:09,800
-Ah quando ... ah quando ... ah quando ...
+Ah quando... ah quando... ah quando...
 
 13
 00:08:09,800 --> 00:08:13,880
-(Vè quanti moti! ò povero cervello.)
+(Vè quanti moti! o povero cervello.)
 
 14
 00:08:14,540 --> 00:08:18,200
@@ -118,7 +118,7 @@ O Dorilla, o mia cara Dorilletta,
 
 29
 00:09:23,540 --> 00:09:26,440
-Mia gentil Ruffianetta....
+Mia gentil Ruffianetta...
 
 30
 00:09:26,440 --> 00:09:30,040
@@ -163,7 +163,7 @@ Oh Dorilla mia, via su, prendi tabacco....
 
 40
 00:10:11,660 --> 00:10:18,480
-Prendi ... ah! poter di Bacco
+Prendi... ah! poter di Bacco
 Tu mi atterrisci con si brutta ciera,
 
 41
@@ -214,8 +214,8 @@ Di voi dicea così.
 
 52
 00:11:21,440 --> 00:11:26,040
-O vita, ò cuore
-O Spirito ... nò
+O vita, O cuore
+O Spirito... no
 
 53
 00:11:26,100 --> 00:11:28,040
@@ -223,15 +223,15 @@ Non dicea così.
 
 54
 00:11:28,040 --> 00:11:31,520
-Diceva; ò gigli
+Diceva; O gigli
 
 55
 00:11:31,520 --> 00:11:33,520
-O rose, ò Cielo
+O rose, O Cielo
 
 56
 00:11:33,750 --> 00:11:36,720
-O Sole, ò Stelle,
+O Sole, O Stelle,
 
 57
 00:11:36,720 --> 00:11:44,800
@@ -272,7 +272,7 @@ mi sento ogn' or lo stomaco
 
 65
 00:13:00,000 --> 00:13:03,800
-Nò, non dicea così
+No, non dicea così
 
 66
 00:13:03,800 --> 00:13:07,960
@@ -375,7 +375,7 @@ Io tengo in mano una mano di mosche
 88
 00:16:00,320 --> 00:16:08,160
 E' pur tu m' hai promesso
-Roma, e Toma , ah ! promessa fallace?
+Roma, e Toma , ah ! promessa fallace!
 
 89
 00:16:08,160 --> 00:16:12,500
@@ -399,7 +399,7 @@ Ma con chi! con chi parlo?
 
 94
 00:16:39,640 --> 00:16:44,320
-("This day" io non vidi mai più curiosa.)
+(Bestia io non vidi mai più curiosa.)
 
 95
 00:16:55,660 --> 00:16:59,660
@@ -774,7 +774,7 @@ Di pure all'idol mio
 che il suo vago... che io...
 
 181
-00:29:28,100 --> 00:29:30,100
+00:29:28,100 --> 00:29:33,400
 Qual Cavallo, qual Cavallo restio...
 
 182
@@ -786,7 +786,7 @@ No no, non dir Cavallo
 Dille, che già vorrei...
 
 184
-00:29:43,100 --> 00:29:45,100
+00:29:43,100 --> 00:29:45,880
 Ma... che non oso
 
 185
@@ -814,7 +814,7 @@ L'elisir d'amore
 190
 00:30:27,820 --> 00:30:36,820
 Su fatti ardito
-nell'amoroso incontro ò Balanzone
+nell'amoroso incontro O Balanzone
 
 191
 00:30:47,740 --> 00:30:57,500
@@ -942,7 +942,7 @@ Notturno Pipistrello.
 
 222
 00:35:54,500 --> 00:35:57,800
-Pf, pf ser Balazone
+Pf, pf ser Balanzone
 
 223
 00:36:00,660 --> 00:36:04,760
@@ -1026,19 +1026,19 @@ eh vuol burlare?
 
 243
 00:37:10,880 --> 00:37:13,080
-Cento Anelli, e Maniglie 
+Cento Anelli, e Maniglie
 
 244
 00:37:13,080 --> 00:37:16,200
-E Vezzi , e perle io sto qui per le dar.
+E Vezzi, e perle io sto qui per le dar.
 
 245
 00:37:16,200 --> 00:37:19,160
-Per un Anello afflitta? 
+Per un Anello afflitta?
 
 246
 00:37:19,620 --> 00:37:21,280
-Chiamala, chiama 
+Chiamala, chiama
 
 247
 00:37:21,540 --> 00:37:23,540
@@ -1046,7 +1046,7 @@ Chiamarla no.
 
 248
 00:37:23,820 --> 00:37:25,800
-Falla uscir qua ti dico. 
+Falla uscir qua ti dico.
 
 249
 00:37:27,400 --> 00:37:28,940
@@ -1058,27 +1058,27 @@ Su via
 
 251
 00:37:40,700 --> 00:37:44,520
-Portale questo or tu da parte mia. 
+Portale questo or tu da parte mia.
 
 252
 00:37:44,850 --> 00:37:47,050
-Tant' incomodo... 
+Tant' incomodo...
 
 253
 00:37:47,050 --> 00:37:49,000
-eh no.  
+eh no.
 
 254
 00:37:49,000 --> 00:37:51,320
-(E fatto il becco all'Oca) 
+(E fatto il becco all'Oca)
 
 255
 00:37:51,320 --> 00:37:56,280
-La Signora per un' Anello afflitta? 
+La Signora per un' Anello afflitta?
 
 256
 00:37:56,280 --> 00:37:58,000
-Oibò oibò. 
+Oibò oibò.
 
 257
 00:37:58,000 --> 00:37:59,450
@@ -1086,7 +1086,7 @@ Or io gliel vo a portar
 
 258
 00:37:59,450 --> 00:38:06,760
-Va... tu ti fermi?  e perche? 
+Va... tu ti fermi? e perche?
 
 259
 00:38:07,580 --> 00:38:09,600
@@ -1094,15 +1094,15 @@ Sto pensando
 
 260
 00:38:09,600 --> 00:38:13,200
-A che mai dir potrà quando vicina 
+A che mai dir potrà quando vicina
 
 261
 00:38:13,540 --> 00:38:16,760
-Sarà a voi la Signora 
+Sarà a voi la Signora
 
 262
 00:38:19,220 --> 00:38:23,840
-Ma che ti par? che dir potrebbe mai? 
+Ma che ti par? che dir potrebbe mai?
 
 263
 00:38:23,840 --> 00:38:28,560
@@ -1114,11 +1114,11 @@ Sì sì Dorilla fammelo sentire.
 
 265
 00:38:41,780 --> 00:38:45,680
-Per te
+Per te,
 
 266
 00:38:45,680 --> 00:38:49,400
-Per te mio dolce ardore
+Per te, mio dolce ardore
 
 267
 00:38:49,400 --> 00:38:53,600
@@ -1126,15 +1126,15 @@ a questo cor io sento
 
 268
 00:38:53,600 --> 00:39:02,200
-tormento che m'affanno  
+tormento che m'affanna
 
 269
 00:39:02,240 --> 00:39:16,520
-perché mi piace
+e che mi piace
 
 270
 00:39:24,860 --> 00:39:32,680
-Per te mio dolce ardore
+Per te, mio dolce ardore
 
 271
 00:39:33,100 --> 00:39:38,960
@@ -1142,7 +1142,9 @@ a questo core io sento
 
 272
 00:39:39,020 --> 00:39:43,960
-tormento che m'affanno e che mi piace
+tormento che m'affanna
+
+e che mi piace
 
 273
 00:39:44,660 --> 00:39:52,640
@@ -1150,11 +1152,11 @@ Per te io sento a questo core
 
 274
 00:39:57,260 --> 00:40:08,040
-tormento che m'affanno
+tormento che m'affanna
 
 275
 00:40:08,040 --> 00:40:14,560
-perché mi piace
+e che mi piace
 
 276
 00:40:28,420 --> 00:40:32,320
@@ -1162,31 +1164,32 @@ Per te vivo in pene
 
 277
 00:40:32,820 --> 00:40:36,320
-e purcho se io in affanne 
+e porto sei, mia speme
 
 278
 00:40:36,700 --> 00:41:09,160
-senza del bel mio non trovo pace
+e senza te, il bel mio,
+non trovo pace
 
 279
 00:41:18,780 --> 00:41:22,840
-Per te
+Per te,
 
 280
 00:41:22,840 --> 00:41:26,720
-Per te mio dolce ardore &c.
+Per te, mio dolce ardore &c.
 
 281
 00:43:35,000 --> 00:43:38,060
-In succhio io me ne vado 
+In succhio io me ne vado
 
 282
 00:43:40,940 --> 00:43:44,880
-E credo fermo, ch'esser debba cosi; 
+E credo fermo, ch'esser debba cosi;
 
 283
 00:43:44,880 --> 00:43:49,640
-E più che mai , or che vede l'anello 
+E più che mai, or che vede l'anello
 
 284
 00:43:50,140 --> 00:43:53,280
@@ -1198,23 +1201,23 @@ ma pazienza:
 
 286
 00:43:55,760 --> 00:43:59,960
-le donne aman più quell'Amante 
+le donne aman più quell'Amante
 
 287
 00:43:59,960 --> 00:44:05,240
-Ch'è con lor più cortese, e più galante. 
+Ch'è con lor più cortese, e più galante.
 
 288
 00:44:11,780 --> 00:44:13,400
-Che v'è Dorilla? 
+Che v'è Dorilla?
 
 289
 00:44:13,400 --> 00:44:16,920
-La Signora tanto tanto tanto 
+La Signora tanto tanto tanto
 
 290
 00:44:16,920 --> 00:44:18,840
-Dell 'anell vi ringrazia 
+Dell 'anell vi ringrazia
 
 291
 00:44:18,840 --> 00:44:21,300
@@ -1222,11 +1225,11 @@ Ma fra tanto tanto tanto
 
 292
 00:44:21,300 --> 00:44:22,500
-Non è uscita? 
+Non è uscita?
 
 293
 00:44:22,500 --> 00:44:24,200
-Uscirà adesso, adesso. 
+Uscirà adesso, adesso.
 
 294
 00:44:24,200 --> 00:44:26,400
@@ -1234,15 +1237,15 @@ Mal l'abbia questa adesso
 
 295
 00:44:26,400 --> 00:44:27,800
-Abbiate flemma. 
+Abbiate flemma.
 
 296
 00:44:27,800 --> 00:44:29,760
-Mal abbia questa flemma. 
+Mal abbia questa flemma.
 
 297
 00:44:30,700 --> 00:44:32,160
-Oh tacete 
+Oh tacete
 
 298
 00:44:32,160 --> 00:44:34,560
@@ -1250,11 +1253,11 @@ Ch'io odo in questa stanza un calpestio
 
 299
 00:44:36,980 --> 00:44:38,040
-Foss 'ella? 
+Foss 'ella?
 
 300
 00:44:38,040 --> 00:44:39,160
-Ella sarà 
+Ella sarà
 
 301
 00:44:39,640 --> 00:44:43,520
@@ -1262,10 +1265,953 @@ Bell 'Idol mio, <Tacete dico.>
 
 302
 00:44:43,520 --> 00:44:45,200
-Io taccio. 
+Io taccio.
 
 303
 00:44:46,100 --> 00:44:50,680
 Un formicaio
-Già mi sento per tutta la persona. 
+Già mi sento per tutta la persona.
+
+304
+00:44:51,900 --> 00:44:55,960
+Voglio osservar. (pur l'ho pensata buona. )
+
+305
+00:45:01,580 --> 00:45:03,560
+Dorilla, è dessa?
+
+306
+00:45:03,560 --> 00:45:04,650
+E dessa.
+
+307
+00:45:04,650 --> 00:45:06,600
+O mio tesoro...
+
+308
+00:45:06,600 --> 00:45:08,800
+Sta dietro la Portiera.
+
+309
+00:45:09,140 --> 00:45:13,760
+Maledetta Portiera che mi cela
+Il ben che adoro
+
+310
+00:45:15,650 --> 00:45:17,280
+Sento chiamarmi
+
+311
+00:45:17,280 --> 00:45:22,040
+Corri, corri: Io
+Me ne sento andare invisibilio.
+
+312
+00:45:32,820 --> 00:45:34,920
+Sapete cosa dice!
+
+313
+00:45:35,920 --> 00:45:36,960
+Cosa mai?
+
+314
+00:45:36,960 --> 00:45:43,300
+Che pria d'uscir vorebbe
+Del vostro amore, un chiaro segno espresso.
+
+315
+00:45:43,940 --> 00:45:49,100
+Che segno? vuol vedermi
+Forse morire?
+
+316
+00:45:49,100 --> 00:45:50,400
+Non questo.
+
+317
+00:45:52,480 --> 00:45:53,400
+Lascia.
+
+318
+00:45:53,400 --> 00:45:54,360
+Non fate.
+
+319
+00:45:54,940 --> 00:45:56,200
+lo farò:
+
+320
+00:45:56,200 --> 00:46:01,920
+E per l'ampia ferita
+L'innamorato Spirito esalerò.
+
+321
+00:46:02,220 --> 00:46:04,200
+Io sto a veder.
+
+322
+00:46:04,580 --> 00:46:09,160
+Ma poi, che sarò morto
+Sia penna questa Spada,
+
+323
+00:46:09,460 --> 00:46:12,920
+Inchiostro sia mio Sangue,
+
+324
+00:46:12,920 --> 00:46:20,840
+E scriva la sua man pregiata,
+Qui fece Balazon la gran frittata .
+
+325
+00:46:22,980 --> 00:46:25,120
+Piano che chiama
+
+326
+00:46:28,100 --> 00:46:29,980
+Debbo morire o no?
+
+327
+00:46:31,780 --> 00:46:35,520
+Vi chiede ella licenza
+Ch'è chiamata di dentro.
+
+328
+00:46:36,860 --> 00:46:40,960
+Ah no, ah no mia vita non partir,
+
+329
+00:46:42,180 --> 00:46:44,400
+L'è partita.
+
+330
+00:46:47,340 --> 00:46:52,960
+Ah ria partenza, ah partenza ria!
+
+331
+00:46:53,500 --> 00:46:56,560
+In Somma m'a lasciato,
+
+332
+00:46:58,850 --> 00:47:05,560
+Senza farsi veder freddo, e gelato.
+
+333
+00:47:14,100 --> 00:47:17,840
+Fate così: tornatene più tardi
+
+334
+00:47:17,840 --> 00:47:19,680
+Ch 'essendovi il Fratello
+
+335
+00:47:19,680 --> 00:47:22,720
+Un servigio a due effetti far si può,
+
+336
+00:47:22,720 --> 00:47:24,800
+Con lei ragionerete.
+
+337
+00:47:24,800 --> 00:47:28,120
+E le nozze con lui appunterete.
+
+338
+00:47:30,500 --> 00:47:33,520
+Dici ben tornerò.
+
+339
+00:47:34,980 --> 00:47:38,720
+E, cosi io
+Per fare il fatto mio
+
+340
+00:47:38,940 --> 00:47:43,360
+Darà denari e a coppia cenerà
+
+341
+00:47:53,140 --> 00:47:57,800
+Parto...
+
+342
+00:47:58,600 --> 00:48:08,600
+Parto nemmeno addio
+Dir posso all' Idol mio
+
+343
+00:48:08,600 --> 00:48:18,200
+Ah questa è crudeltà.
+
+344
+00:48:18,200 --> 00:48:25,200
+Son giuste le Querele,
+Il caso è in ver crudele
+
+345
+00:48:25,200 --> 00:48:30,000
+E degno è di pietà.
+
+346
+00:48:33,600 --> 00:48:41,040
+Di dirlo a queste mura
+Almen mi sia permesso.
+
+347
+00:48:41,040 --> 00:48:43,500
+Oh questa è bella adesso.
+
+348
+00:48:48,050 --> 00:49:02,240
+Addio mura adorate
+Adorate mura addio.
+
+349
+00:49:04,100 --> 00:49:09,120
+Quest'atto di Creanza,
+A lei ch'è mia Speranza
+
+350
+00:49:09,120 --> 00:49:18,680
+Da voi si narrerà
+
+351
+00:49:18,680 --> 00:49:23,880
+A questo non pensate
+Lasciate a me la cura
+
+352
+00:49:23,880 --> 00:49:30,840
+Da me se le dirà.
+
+353
+00:49:30,840 --> 00:49:33,800
+Ah no vò ch'ella veda
+
+354
+00:49:33,800 --> 00:49:38,120
+Il pietro ancor pietrita
+Al fiero dolor mio
+
+355
+00:49:38,120 --> 00:49:42,360
+Eh via non so che dite
+Le servirò
+
+356
+00:49:42,500 --> 00:49:43,480
+Mi creda...
+
+357
+00:49:43,480 --> 00:49:44,960
+No no no no <Le servirò>
+
+358
+00:49:44,960 --> 00:49:46,880
+No no cosi vogl'io
+
+359
+00:49:46,880 --> 00:49:50,680
+Più matto non si dà, no.
+
+360
+00:49:51,100 --> 00:49:54,440
+Ma al fin...
+
+361
+00:49:55,660 --> 00:50:09,880
+Parto nemmeno addio
+Dir posso all' Idol mio
+
+362
+00:50:10,220 --> 00:50:15,400
+Ah questa è crudeltà.
+
+363
+00:50:15,980 --> 00:50:26,280
+Il caso è in ver crudele
+
+364
+00:50:26,280 --> 00:50:31,280
+Ma, da me se le dirà.
+
+365
+00:50:31,280 --> 00:50:35,440
+No, dirò a queste mura
+
+366
+00:50:36,340 --> 00:50:37,400
+Che matto!
+
+367
+00:50:38,380 --> 00:50:57,240
+Addio mura adorate
+Adorate mura, parto, addio.
+
+368
+00:50:58,420 --> 00:51:04,680
+Più matto non si dà, no.
+
+369
+01:01:22,000 --> 01:01:27,080
+Per scioglier ogn' intrigo,
+
+370
+01:01:27,250 --> 01:01:30,400
+Mi fingo il mio fratello.
+
+371
+01:01:31,620 --> 01:01:37,520
+Orsù voi qui nascosti ne starete,
+E al mio Cenno uscirete
+
+372
+01:01:43,000 --> 01:01:47,240
+Eccomi qua tornato,
+Secondo il concertato,
+
+373
+01:01:47,240 --> 01:01:51,840
+S'è per me dispietato
+Un'altra volta il fato,
+
+374
+01:01:51,840 --> 01:01:55,560
+Io cose voglio far da Spiritato.
+
+375
+01:01:58,620 --> 01:02:00,620
+Fingiam di non vederlo.
+
+376
+01:02:24,700 --> 01:02:28,880
+Io' ho una covata
+D'anittroccoli
+
+377
+01:02:29,220 --> 01:02:33,240
+Che stanno a diguazzarsi
+In un pantano
+
+378
+01:02:33,580 --> 01:02:41,920
+Cosi piacevolin
+Che quando i roccoli
+
+379
+01:02:42,060 --> 01:02:50,360
+Mi beccan la Lattuga
+In su la mano.
+
+380
+01:03:06,380 --> 01:03:09,800
+Che va facendo questo Contadino!
+
+381
+01:03:13,200 --> 01:03:18,280
+O sire, i' gli fò inchino, e lierenza
+
+382
+01:03:19,700 --> 01:03:20,650
+Addio.
+
+383
+01:03:21,000 --> 01:03:24,720
+Eh sares tù què, chi stò aspettando, eh ?
+
+384
+01:03:24,720 --> 01:03:27,000
+Che so io? tu chi aspetti?
+
+385
+01:03:27,000 --> 01:03:30,440
+J'aspetto il damo de la Sirocchia.
+
+386
+01:03:31,050 --> 01:03:35,080
+Come, "amo", e "conocchia"?
+
+387
+01:03:35,460 --> 01:03:37,460
+Tu che dici?
+
+388
+01:03:38,400 --> 01:03:41,480
+Eh! nò nte nò ntendi!
+
+389
+01:03:41,480 --> 01:03:47,680
+Il gaveggino,
+L'Amanzo, i dico, de la me sorella.
+
+390
+01:03:49,050 --> 01:03:55,800
+L'Amasio vuoi tu dir, l'innamorato
+De la sorella tua?
+
+391
+01:03:55,800 --> 01:03:58,240
+Ah! ah! tu m'ha pescato.
+
+392
+01:03:58,460 --> 01:04:03,280
+(Stropian si le parole,
+Codesti contadini
+Che non s'intendono.)
+
+393
+01:04:05,100 --> 01:04:07,880
+Be? se tu quel che o nò?
+
+394
+01:04:08,000 --> 01:04:10,840
+Oibò, oibò non sono
+
+395
+01:04:10,980 --> 01:04:22,280
+J' giurerei Proserpina, e Pultrono,
+Che tù, e la vostra Signoria s'è queggi.
+
+396
+01:04:24,700 --> 01:04:30,360
+Hai tu sbagliato contadin mio beggi.
+
+397
+01:04:30,500 --> 01:04:34,080
+Orsù vediamo un poco
+Di ritrovar Dorilla.
+
+398
+01:04:34,260 --> 01:04:40,320
+Sì, sì, codesta è dico.
+
+399
+01:04:41,050 --> 01:04:42,960
+E c' hai a far con quella?
+
+400
+01:04:43,180 --> 01:04:48,960
+Diascoli? che ho a far?
+La m'è sorella.
+
+401
+01:04:50,820 --> 01:04:52,800
+Tu a Dorilla fratel?
+
+402
+01:04:52,800 --> 01:04:58,960
+Aie sire, hai fiuto
+Non m'ha tu conosciuto?
+
+403
+01:05:00,660 --> 01:05:02,680
+(M'ha preso per un Cane)
+
+404
+01:05:03,780 --> 01:05:08,060
+Già si vede, che molto l assomigli.
+
+405
+01:05:08,060 --> 01:05:11,680
+Doh! s'i ' le son fratello in carne e n'ossa.
+
+406
+01:05:11,940 --> 01:05:15,300
+Tu te ne stai in Villa, non è vero?
+
+407
+01:05:15,300 --> 01:05:26,320
+Ser sire; e passo il tempo allegramente
+Che colà gliè goder propriamente.
+
+408
+01:05:51,020 --> 01:05:54,920
+Che bel diletto
+Se nel laghetto
+
+409
+01:05:54,920 --> 01:06:00,400
+O di cantare
+La granacchiella
+
+410
+01:06:00,400 --> 01:06:02,400
+Che fa crà, <i>crà</i>, <i>crà</i>;
+
+411
+01:06:14,260 --> 01:06:18,200
+Che bè contenti
+Se' l Grillo senti
+
+412
+01:06:18,200 --> 01:06:27,300
+Dentro la Siepe
+Che fa <i>tri</i>, <i>tri</i>.
+
+413
+01:06:51,780 --> 01:06:56,920
+T'allegra' l cuore
+Quando volare
+
+414
+01:06:56,920 --> 01:07:01,600
+Vedi le lucciole
+Che dietro portano
+
+415
+01:07:01,600 --> 01:07:03,600
+Quello Sprendore
+
+416
+01:07:03,940 --> 01:07:16,400
+Che fa la notte
+Parer un dì.
+
+417
+01:07:24,300 --> 01:07:26,300
+Che bel diletto &c.
+
+418
+01:08:33,180 --> 01:08:36,440
+E un gusto veramente peregrino!
+
+419
+01:08:36,440 --> 01:08:43,150
+Or io ho piacer d'averti conosciuto
+Come ti chiami?
+
+420
+01:08:43,150 --> 01:08:45,720
+J'chiamomi Bechino.
+
+421
+01:08:47,300 --> 01:08:56,800
+Bel nome; or come hai detto
+Dorilla è innamorata?
+
+422
+01:08:56,800 --> 01:08:59,960
+Canchitra! <Canchitra!>
+
+423
+01:08:59,960 --> 01:09:02,560
+L'ha ' l diascolo nel quore?
+
+424
+01:09:04,400 --> 01:09:07,300
+E tu sei l'amoroso ambasciadore?
+
+425
+01:09:07,420 --> 01:09:11,440
+J' ci vienni à concrudere
+Cotesto patrimonio.
+
+426
+01:09:11,940 --> 01:09:14,350
+Il matrimonio vuoi dir?
+
+427
+01:09:14,350 --> 01:09:17,600
+Sì' l parentorio con esso teco.
+
+428
+01:09:19,340 --> 01:09:22,960
+Come? che vuol dir "esso teco"?
+
+429
+01:09:23,450 --> 01:09:27,160
+Esso teco, tu.
+Ed' ella:
+
+430
+01:09:27,740 --> 01:09:31,480
+Non vuoi ti con Dorilla tu appayare?
+
+431
+01:09:31,820 --> 01:09:33,820
+Oh! sarem fatti bovi.
+
+432
+01:09:33,820 --> 01:09:39,560
+Eh, Gli è tutt' una.
+E' vogliame far il primo dì di festa.
+
+433
+01:09:40,140 --> 01:09:46,800
+Il primo dì di festa? ah, ah, ah, ah,
+Si sì rider bisogna è bella questa.
+
+434
+01:09:52,750 --> 01:09:58,200
+Tu ridi? gne ne hai fatto promissione.
+
+435
+01:09:59,060 --> 01:10:04,800
+Va, va Bechino bello:
+Che tu dato avrai volta al cervello;
+
+436
+01:10:08,150 --> 01:10:11,000
+O i' so matto, o tue.
+
+437
+01:10:11,000 --> 01:10:13,080
+Viè qua
+
+438
+01:10:13,800 --> 01:10:17,200
+le hai dato tu doni di piue?
+
+439
+01:10:19,250 --> 01:10:22,000
+Tò quest anello...
+
+440
+01:10:22,000 --> 01:10:27,500
+Quest'anello è mio;
+Ma io alla sua Padrona l'ho donato.
+
+441
+01:10:27,500 --> 01:10:33,080
+Se tu Uom sguajataccio,
+Da far per la Padrona ' l squasimato?
+
+442
+01:10:33,180 --> 01:10:36,400
+Ai Corpo... ai mondo...
+
+443
+01:10:36,620 --> 01:10:42,850
+Jo hone un' appitito
+De darti sotto 'l muso un sorgognone.
+
+444
+01:10:43,700 --> 01:10:48,960
+Ah! villanaccio. Questo a Balanzone?
+A Balanzone questo?
+
+445
+01:10:48,960 --> 01:10:51,100
+Giuro, che se non fosse.
+
+446
+01:10:51,100 --> 01:10:57,000
+Orsùe tu vuoi
+ch' una boce à miei compagni? aspetta.
+
+447
+01:10:57,050 --> 01:11:01,560
+Aiù Nanni, Tonio, Teo, Meo, ...
+
+448
+01:11:01,700 --> 01:11:06,800
+Teo, Meo, Tadeo, Bartolomeo...
+Chiama, chiama...
+
+449
+01:11:13,220 --> 01:11:17,250
+Oh, o quanti fuorusciti:
+
+450
+01:11:18,550 --> 01:11:24,700
+A noi Messere
+O t'arrisorvi, o menerem le mani
+
+451
+01:11:26,180 --> 01:11:30,640
+Adagio, adagio (o che ciere di Cani!)
+
+452
+01:11:31,260 --> 01:11:34,260
+Vuoi ti Dorilla in moglie?
+
+453
+01:11:34,660 --> 01:11:38,760
+(Oh che imbroglio!) Dorilla dove sta?
+
+454
+01:11:39,000 --> 01:11:41,120
+Fa 'l tò conto, ch'è qua.
+
+455
+01:11:41,120 --> 01:11:42,320
+Chiamala.
+
+456
+01:11:42,320 --> 01:11:49,400
+Non iscorre; hai tu a risorvere,
+O pesterenti, come i gran ne l'aja.
+
+457
+01:11:50,740 --> 01:11:55,040
+Buon pro ci faccia; questa non è baja.
+
+458
+01:11:56,750 --> 01:11:59,000
+Ma vè che tradimento!
+
+459
+01:11:59,700 --> 01:12:03,600
+Venni per la Padrona,
+E poi debbo a la Serva...
+
+460
+01:12:03,600 --> 01:12:07,400
+Or tu hai desio
+D'avere 'n fu le sapalle il lagorio
+
+461
+01:12:07,400 --> 01:12:08,330
+A voi...
+
+462
+01:12:12,050 --> 01:12:17,480
+Piano diavolo
+(Come son pronti questi manigoldi.)
+
+463
+01:12:21,650 --> 01:12:24,680
+Che far risolvo?
+
+464
+01:12:26,940 --> 01:12:32,040
+Ahi sorte, ahi Ciele, ahi Stelle,
+
+465
+01:12:33,000 --> 01:12:38,480
+Empie crude, e rubelle...
+
+466
+01:12:40,540 --> 01:12:43,840
+O, mio tradito amore...
+
+467
+01:12:44,860 --> 01:12:56,520
+O passi Sparsi... o Sospiri... o Singhiozzi...
+O Parole... o Concetti...
+
+468
+01:12:59,150 --> 01:13:04,360
+Ma che? no nol farò,
+
+469
+01:13:05,500 --> 01:13:07,560
+Piùtosto morirò.
+
+470
+01:13:12,460 --> 01:13:14,460
+Su, m'uccidete.
+
+471
+01:13:15,600 --> 01:13:17,660
+Eccovi il petto;
+
+472
+01:13:18,260 --> 01:13:20,120
+Sguainate i ferri;
+
+473
+01:13:20,120 --> 01:13:23,120
+Squarciate, lacerate, trucidate;
+
+474
+01:13:23,120 --> 01:13:26,160
+O pure ecco le Spalle date, date,
+
+475
+01:13:26,460 --> 01:13:29,160
+Di fiere bastonate, date, date,
+
+476
+01:13:29,220 --> 01:13:31,920
+Tempeste scaricate, date, date...
+
+477
+01:13:32,300 --> 01:13:36,400
+Ma no, venga, no fermi...
+
+478
+01:13:44,220 --> 01:13:49,640
+Ahai! che dico, ahi che parlo?
+
+479
+01:13:50,700 --> 01:13:53,400
+Io son già pazzo.
+
+480
+01:13:55,450 --> 01:13:59,360
+(Egli a vederlo, in vero un gran solazzo.)
+
+481
+01:14:14,660 --> 01:14:27,480
+Antri ciechi, opachi Spechi
+Nascondete i miei rossori,
+
+482
+01:14:27,480 --> 01:14:32,720
+Negl 'orrori
+Delle vostre cavità
+
+483
+01:15:21,180 --> 01:15:34,000
+Ecco qua un' afflitto amante
+
+484
+01:15:34,000 --> 01:15:43,320
+Che quasi era in alto giunto
+Ora a un punto, ad un istante
+
+485
+01:15:43,320 --> 01:16:17,300
+Cade già, e a precipizio
+Rotolando se ne va.
+
+486
+01:16:24,860 --> 01:16:37,480
+Antri ciechi, opachi Spechi
+Nascondete i miei rossori,
+
+487
+01:16:37,480 --> 01:16:43,000
+Negl' orrori
+Delle vostre cavità.
+
+488
+01:17:41,500 --> 01:17:45,680
+Orsù già il poveraccio glie Spedito;
+
+489
+01:17:46,180 --> 01:17:51,640
+E ' l ceruel se n'è ito per le poste
+Legatelo.
+
+490
+01:17:51,640 --> 01:17:54,400
+Legare? ohimè , ohimè.
+
+491
+01:17:54,400 --> 01:17:57,450
+T'abbisogna menare a far la cura.
+
+492
+01:17:57,450 --> 01:17:59,720
+Come? la cura a me?
+
+493
+01:17:59,720 --> 01:18:05,680
+Or questo no. Scioglietemi o meschino...
+
+494
+01:18:05,680 --> 01:18:08,040
+Chiamatemi Dorilla.
+
+495
+01:18:09,340 --> 01:18:11,340
+Che vuò tu farne?
+
+496
+01:18:13,660 --> 01:18:19,800
+Giacché il mio destino
+Vuol ch'io mi prendi lei per moglie a forza
+
+497
+01:18:22,580 --> 01:18:31,880
+Venga, mi dia la destra, ed io l'accetto.
+
+498
+01:18:34,150 --> 01:18:36,060
+Si sciolga.
+
+499
+01:18:37,250 --> 01:18:43,440
+Io son Dorilla.
+La sua destra or tu stringi.
+
+500
+01:18:45,200 --> 01:18:49,840
+Dorilla sei?
+Dunque il fratel ti fingi?
+
+501
+01:18:52,940 --> 01:18:57,160
+ah furfantella.
+
+502
+01:18:57,160 --> 01:19:03,500
+Or che altro vuoi?
+Già è fatto, ciò ch' ai fatto conferma.
+
+503
+01:19:27,660 --> 01:19:35,320
+Oprar io voglio da generoso,
+Lo confermo, e affermo.
+
+504
+01:19:35,550 --> 01:19:42,400
+E se già fatto a forza non l'avessi
+Di buona voglia a far lo tornerei,
+
+505
+01:19:44,540 --> 01:19:47,000
+Mi sei marito già,
+
+506
+01:19:47,500 --> 01:19:50,760
+Moglie Mi sei.
+
+507
+01:19:59,420 --> 01:20:03,850
+Dolce ardore nel mio core
+
+508
+01:20:03,850 --> 01:20:07,700
+Caro affetto del mio petto
+
+509
+01:20:07,700 --> 01:20:12,240
+M'amerai? <s></s>
+
+510
+01:20:12,240 --> 01:20:15,960
+Sì, t'amerò.
+
+511
+01:20:16,060 --> 01:20:20,320
+Dolce ardore nel mio core
+
+512
+01:20:20,320 --> 01:20:24,280
+Caro affetto del mio petto
+
+513
+01:20:24,280 --> 01:20:26,280
+M'amerai? <s></s>
+
+514
+01:20:26,420 --> 01:20:28,920
+M'amerai? <s></s>
+
+515
+01:20:28,920 --> 01:20:32,440
+Sì, t'amerò.
+
+516
+01:20:32,820 --> 01:20:45,800
+Oh che gioa per me questa
+Sempre questa resterò
+
+517
+01:20:49,100 --> 01:20:55,480
+Anzi
+
+518
+01:20:56,820 --> 01:21:05,000
+Anzi
+
+519
+01:21:06,820 --> 01:21:11,040
+Anzi, vogl' io adesso incominciar
+
+520
+01:23:23,100 --> 01:23:25,100
+Sottotitoli da Michael Jurado
 
