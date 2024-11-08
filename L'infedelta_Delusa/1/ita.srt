@@ -1656,7 +1656,7 @@ E savia, e bella, e in tutto il vicinato
 
 413
 01:07:59,260 --> 01:08:04,040
-Se ne faceanle maraviglie tanto ch'era un piacer <error>
+Se ne facean le maraviglie tanto ch'era un piacer 
 
 414
 01:08:05,000 --> 01:08:09,500
